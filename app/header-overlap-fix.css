@@ -1,0 +1,37 @@
+/* Header overlap fix using a responsive CSS variable set by the header */
+:root {
+  /* default fallback height */
+  --site-header-height: 140px;
+}
+
+/* Add top padding to first non-hero section so content isn't hidden under the fixed header */
+/* main > section:first-child:not([class*="min-h-"]):not([class*="h-["]) {
+  padding-top: calc(var(--site-header-height)) !important;
+} */
+
+/* For hero-like sections we remove extra padding but make them aware of the header
+   so anchor-scroll / focus won't hide the top of the section */
+main > section:first-child[class*="min-h-"],
+main > section:first-child[class*="h-["],
+main > div:first-child > section:first-child[class*="min-h-"],
+main > div:first-child > section:first-child[class*="h-["] {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+  scroll-margin-top: calc(var(--site-header-height) + 8px) !important;
+}
+
+/* General hero selectors: ensure they have appropriate scroll offset */
+section.relative.min-h-\[500px\],
+section.relative[class*="min-h-"],
+section.relative[class*="h-["] {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  scroll-margin-top: calc(var(--site-header-height) + 8px) !important;
+}
+
+/* Also add a gentle rule for any element used as a page hero */
+.hero,
+section.hero,
+.page-hero {
+  scroll-margin-top: calc(var(--site-header-height) + 8px) !important;
+}

@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-02-11T14:43:32.908Z",
+  "durationSeconds": 45.82,
+  "configuration": {
+    "maxProducts": null,
+    "skipImages": false,
+    "cleanImages": true,
+    "listingConcurrency": 8,
+    "detailConcurrency": 12,
+    "imageConcurrency": 16,
+    "fetchRetries": 4,
+    "requestTimeoutMs": 45000
+  },
+  "crawl": {
+    "listingPagesVisited": 190,
+    "detailUrlsDiscovered": 650,
+    "failedListingUrls": []
+  },
+  "scrape": {
+    "successfulProducts": 650,
+    "failedProducts": []
+  },
+  "images": {
+    "totalTasks": 1153,
+    "completedTasks": 1153,
+    "failed": [
+      {
+        "sourceUrl": "https://sanyglobal-img.sany.com.cn/Sany-photo-SAC9000C8-8.png?x-oss-process=image/format,webp",
+        "productUrl": "https://www.sanyglobal.com/product/crane/all-terrain_crane/85/1642/",
+        "error": "HTTP 404 for https://sanyglobal-img.sany.com.cn/Sany-photo-SAC9000C8-8.png"
+      },
+      {
+        "sourceUrl": "https://sanyglobal-img.sany.com.cn/Sany-photo-SCD150-right.png?x-oss-process=image/format,webp",
+        "productUrl": "https://www.sanyglobal.com/product/crane/rough-terrain_crane/86/1657/",
+        "error": "HTTP 404 for https://sanyglobal-img.sany.com.cn/Sany-photo-SCD150-right.png"
+      }
+    ]
+  }
+}

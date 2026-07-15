@@ -1,0 +1,32 @@
+/* Responsive Navigation Bar Improvements */
+
+/* Make navigation more compact on laptop screens */
+@media (min-width: 1024px) and (max-width: 1400px) {
+  /* Reduce navigation link font size */
+  header nav a {
+    font-size: 0.75rem !important; /* text-xs */
+  }
+
+  /* Reduce gaps between navigation items */
+  header nav[class*="lg:flex"] {
+    gap: 0.5rem !important; /* gap-2 */
+  }
+
+  /* Reduce button padding */
+  header a[class*="bg-[#dc2626]"] {
+    padding-left: 0.75rem !important; /* px-3 */
+    padding-right: 0.75rem !important;
+    font-size: 0.75rem !important; /* text-xs */
+  }
+}
+
+/* Extra responsive adjustments for very small laptops */
+@media (min-width: 1024px) and (max-width: 1200px) {
+  header nav a {
+    font-size: 0.7rem !important;
+  }
+
+  header nav[class*="lg:flex"] {
+    gap: 0.375rem !important; /* gap-1.5 */
+  }
+}

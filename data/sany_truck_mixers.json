@@ -1,0 +1,2962 @@
+{
+  "source": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/",
+  "generatedAt": "2026-03-14T12:20:24.423Z",
+  "totalProducts": 19,
+  "totalFailures": 0,
+  "products": [
+    {
+      "id": 159,
+      "modelId": 159,
+      "goodsId": 119,
+      "reference": "SY206C-8Y(Ⅴ)",
+      "name": "SY206C-8Y(Ⅴ) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/119/159/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "119",
+      "subCategoryModelId": "159",
+      "description": "SANY SY206C-8Y(Ⅴ) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "6",
+              "unit": "m³",
+              "valueWithUnit": "6 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥3",
+              "unit": "m³/min",
+              "valueWithUnit": "≥3 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥2",
+              "unit": "m³/min",
+              "valueWithUnit": "≥2 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "300",
+              "unit": "L",
+              "valueWithUnit": "300 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "8000",
+              "unit": "kg",
+              "valueWithUnit": "8000 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "22400",
+              "unit": "kg",
+              "valueWithUnit": "22400 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "7800×2480×3605",
+              "unit": "mm",
+              "valueWithUnit": "7800×2480×3605 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "4200",
+              "unit": "mm",
+              "valueWithUnit": "4200 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "YC4EG200-50",
+              "unit": "",
+              "valueWithUnit": "YC4EG200-50"
+            },
+            {
+              "name": "Cab",
+              "value": "Sanhuan Cab",
+              "unit": "",
+              "valueWithUnit": "Sanhuan Cab"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "4.73",
+              "unit": "L",
+              "valueWithUnit": "4.73 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "147/2500",
+              "unit": "kW/rpm",
+              "valueWithUnit": "147/2500 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 6,
+        "weight": 22.4,
+        "power": 147
+      },
+      "specStrings": {
+        "capacity": "6 m³",
+        "weight": "22400 kg",
+        "power": "147/2500 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20230731/SY206_161611.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20230731/SY206_161611.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 162,
+      "modelId": 162,
+      "goodsId": 119,
+      "reference": "SY306C-6W",
+      "name": "SY306C-6W - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/119/162/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "119",
+      "subCategoryModelId": "162",
+      "description": "SANY SY306C-6W Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "6",
+              "unit": "m³",
+              "valueWithUnit": "6 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "11400",
+              "unit": "kg",
+              "valueWithUnit": "11400 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "25800",
+              "unit": "kg",
+              "valueWithUnit": "25800 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "8370×2530×3700",
+              "unit": "mm",
+              "valueWithUnit": "8370×2530×3700 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3225+1350",
+              "unit": "mm",
+              "valueWithUnit": "3225+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "WP10.270E32",
+              "unit": "",
+              "valueWithUnit": "WP10.270E32"
+            },
+            {
+              "name": "Cab",
+              "value": "SANY Cab CB318",
+              "unit": "",
+              "valueWithUnit": "SANY Cab CB318"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "9.726",
+              "unit": "L",
+              "valueWithUnit": "9.726 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "199/2200",
+              "unit": "kW/rpm",
+              "valueWithUnit": "199/2200 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 6,
+        "weight": 25.8,
+        "power": 199
+      },
+      "specStrings": {
+        "capacity": "6 m³",
+        "weight": "25800 kg",
+        "power": "199/2200 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20240411/3_144036.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20240411/3_144036.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 1395,
+      "modelId": 1395,
+      "goodsId": 119,
+      "reference": "SY306C-8Y(Ⅴ R Dry)",
+      "name": "SY306C-8Y(Ⅴ R Dry) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/119/1395/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "119",
+      "subCategoryModelId": "1395",
+      "description": "SANY SY306C-8Y(Ⅴ R Dry) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "6",
+              "unit": "m³",
+              "valueWithUnit": "6 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "600",
+              "unit": "L",
+              "valueWithUnit": "600 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "10580",
+              "unit": "kg",
+              "valueWithUnit": "10580 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "25000",
+              "unit": "kg",
+              "valueWithUnit": "25000 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "8370×2530×3700",
+              "unit": "mm",
+              "valueWithUnit": "8370×2530×3700 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3225+1350",
+              "unit": "mm",
+              "valueWithUnit": "3225+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "YCK08300-50",
+              "unit": "",
+              "valueWithUnit": "YCK08300-50"
+            },
+            {
+              "name": "Cab",
+              "value": "SANY Cab CB318",
+              "unit": "",
+              "valueWithUnit": "SANY Cab CB318"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "7.698",
+              "unit": "L",
+              "valueWithUnit": "7.698 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "221/2200",
+              "unit": "kW/rpm",
+              "valueWithUnit": "221/2200 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 6,
+        "weight": 25,
+        "power": 221
+      },
+      "specStrings": {
+        "capacity": "6 m³",
+        "weight": "25000 kg",
+        "power": "221/2200 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20250122/SY306C-8Y(Ⅴ-R-Dry)_143304.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20250122/SY306C-8Y(Ⅴ-R-Dry)_143304.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 133,
+      "modelId": 133,
+      "goodsId": 121,
+      "reference": "SY308C-6W",
+      "name": "SY308C-6W - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/121/133/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "121",
+      "subCategoryModelId": "133",
+      "description": "SANY SY308C-6W Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "8",
+              "unit": "m³",
+              "valueWithUnit": "8 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "11500",
+              "unit": "kg",
+              "valueWithUnit": "11500 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "30700",
+              "unit": "kg",
+              "valueWithUnit": "30700 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "8570×2530×3800",
+              "unit": "mm",
+              "valueWithUnit": "8570×2530×3800 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3225+1350",
+              "unit": "mm",
+              "valueWithUnit": "3225+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "WP10.270E32",
+              "unit": "",
+              "valueWithUnit": "WP10.270E32"
+            },
+            {
+              "name": "Cab",
+              "value": "SANY Cab CB318",
+              "unit": "",
+              "valueWithUnit": "SANY Cab CB318"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "9.726",
+              "unit": "L",
+              "valueWithUnit": "9.726 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "199/2200",
+              "unit": "kW/rpm",
+              "valueWithUnit": "199/2200 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 8,
+        "weight": 30.7,
+        "power": 199
+      },
+      "specStrings": {
+        "capacity": "8 m³",
+        "weight": "30700 kg",
+        "power": "199/2200 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20240411/3_144322.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20240411/3_144322.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 134,
+      "modelId": 134,
+      "goodsId": 121,
+      "reference": "SY308C-6W(R)",
+      "name": "SY308C-6W(R) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/121/134/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "121",
+      "subCategoryModelId": "134",
+      "description": "SANY SY308C-6W(R) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "8",
+              "unit": "m³",
+              "valueWithUnit": "8 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "11500",
+              "unit": "kg",
+              "valueWithUnit": "11500 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "30700",
+              "unit": "kg",
+              "valueWithUnit": "30700 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "8570×2530×3800",
+              "unit": "mm",
+              "valueWithUnit": "8570×2530×3800 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3225+1350",
+              "unit": "mm",
+              "valueWithUnit": "3225+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "WP10.270E32",
+              "unit": "",
+              "valueWithUnit": "WP10.270E32"
+            },
+            {
+              "name": "Cab",
+              "value": "SANY Cab CB318",
+              "unit": "",
+              "valueWithUnit": "SANY Cab CB318"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "9.726",
+              "unit": "L",
+              "valueWithUnit": "9.726 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "199/2200",
+              "unit": "kW/rpm",
+              "valueWithUnit": "199/2200 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 8,
+        "weight": 30.7,
+        "power": 199
+      },
+      "specStrings": {
+        "capacity": "8 m³",
+        "weight": "30700 kg",
+        "power": "199/2200 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20240411/3_144222.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20240411/3_144222.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 168,
+      "modelId": 168,
+      "goodsId": 121,
+      "reference": "SY308S-8S",
+      "name": "SY308S-8S - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/121/168/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "121",
+      "subCategoryModelId": "168",
+      "description": "SANY SY308S-8S Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "8",
+              "unit": "m³",
+              "valueWithUnit": "8 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "12000",
+              "unit": "kg",
+              "valueWithUnit": "12000 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "25000",
+              "unit": "kg",
+              "valueWithUnit": "25000 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "8600×2500×3800",
+              "unit": "mm",
+              "valueWithUnit": "8600×2500×3800 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3225+1350",
+              "unit": "mm",
+              "valueWithUnit": "3225+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "D09C5-340E3",
+              "unit": "",
+              "valueWithUnit": "D09C5-340E3"
+            },
+            {
+              "name": "Cab",
+              "value": "Sany Cab CB329",
+              "unit": "",
+              "valueWithUnit": "Sany Cab CB329"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "8.7",
+              "unit": "L",
+              "valueWithUnit": "8.7 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "250/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "250/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 8,
+        "weight": 25,
+        "power": 250
+      },
+      "specStrings": {
+        "capacity": "8 m³",
+        "weight": "25000 kg",
+        "power": "250/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20250122/SY308S-8S_142116.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20250122/SY308S-8S_142116.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 139,
+      "modelId": 139,
+      "goodsId": 122,
+      "reference": "SY310C-6W",
+      "name": "SY310C-6W - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/122/139/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "122",
+      "subCategoryModelId": "139",
+      "description": "SANY SY310C-6W Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear has decreased by 50%. SANY uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build-up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses SANY's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edges Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimizing chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper, and a ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space and to prevent aggregate from piling up at the front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which boasts five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep abreast of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard-mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance schedule."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "10",
+              "unit": "m³",
+              "valueWithUnit": "10 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "13700",
+              "unit": "kg",
+              "valueWithUnit": "13700 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "37700",
+              "unit": "kg",
+              "valueWithUnit": "37700 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "9300×2500×3985",
+              "unit": "mm",
+              "valueWithUnit": "9300×2500×3985 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3720+1350",
+              "unit": "mm",
+              "valueWithUnit": "3720+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "WP10.340E32",
+              "unit": "",
+              "valueWithUnit": "WP10.340E32"
+            },
+            {
+              "name": "Cab",
+              "value": "SANY Cab CB318",
+              "unit": "",
+              "valueWithUnit": "SANY Cab CB318"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "9.726",
+              "unit": "L",
+              "valueWithUnit": "9.726 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "250/2200",
+              "unit": "kW/rpm",
+              "valueWithUnit": "250/2200 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 10,
+        "weight": 37.7,
+        "power": 250
+      },
+      "specStrings": {
+        "capacity": "10 m³",
+        "weight": "37700 kg",
+        "power": "250/2200 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20230721/truck-mixer-3_092438.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20230721/truck-mixer-3_092438.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 143,
+      "modelId": 143,
+      "goodsId": 122,
+      "reference": "SY310C-6W(R)",
+      "name": "SY310C-6W(R) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/122/143/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "122",
+      "subCategoryModelId": "143",
+      "description": "SANY SY310C-6W(R) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear has decreased by 50%. SANY uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build-up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses SANY's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edges Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimizing chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper, and a ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space and to prevent aggregate from piling up at the front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which boasts five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep abreast of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard-mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance schedule."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "10",
+              "unit": "m³",
+              "valueWithUnit": "10 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "13700",
+              "unit": "kg",
+              "valueWithUnit": "13700 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "37700",
+              "unit": "kg",
+              "valueWithUnit": "37700 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "9300×2500×3985",
+              "unit": "mm",
+              "valueWithUnit": "9300×2500×3985 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3720+1350",
+              "unit": "mm",
+              "valueWithUnit": "3720+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "WP10.340E32",
+              "unit": "",
+              "valueWithUnit": "WP10.340E32"
+            },
+            {
+              "name": "Cab",
+              "value": "SANY Cab CB318",
+              "unit": "",
+              "valueWithUnit": "SANY Cab CB318"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "9.726",
+              "unit": "L",
+              "valueWithUnit": "9.726 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "250/2200",
+              "unit": "kW/rpm",
+              "valueWithUnit": "250/2200 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 10,
+        "weight": 37.7,
+        "power": 250
+      },
+      "specStrings": {
+        "capacity": "10 m³",
+        "weight": "37700 kg",
+        "power": "250/2200 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20230721/truck-mixer-3_092500.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20230721/truck-mixer-3_092500.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 914,
+      "modelId": 914,
+      "goodsId": 122,
+      "reference": "SY310C-6W(Ⅴ) (GJB100000608)",
+      "name": "SY310C-6W(Ⅴ) (GJB100000608) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/122/914/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "122",
+      "subCategoryModelId": "914",
+      "description": "SANY SY310C-6W(Ⅴ) (GJB100000608) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear has decreased by 50%. SANY uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build-up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses SANY's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edges Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimizing chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper, and a ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space and to prevent aggregate from piling up at the front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which boasts five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep abreast of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard-mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance schedule."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "10",
+              "unit": "m³",
+              "valueWithUnit": "10 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "800 (With heating)",
+              "unit": "L",
+              "valueWithUnit": "800 (With heating) L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "13700(OTTC)",
+              "unit": "kg",
+              "valueWithUnit": "13700(OTTC) kg"
+            },
+            {
+              "name": "GVW",
+              "value": "31000(OTTC)",
+              "unit": "kg",
+              "valueWithUnit": "31000(OTTC) kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "9300×2500×3985(OTTC)",
+              "unit": "mm",
+              "valueWithUnit": "9300×2500×3985(OTTC) mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3720+1350",
+              "unit": "mm",
+              "valueWithUnit": "3720+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "WP10.336E53",
+              "unit": "",
+              "valueWithUnit": "WP10.336E53"
+            },
+            {
+              "name": "Cab",
+              "value": "SANY Cab CB318",
+              "unit": "",
+              "valueWithUnit": "SANY Cab CB318"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "9.726",
+              "unit": "L",
+              "valueWithUnit": "9.726 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "247/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "247/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 10,
+        "weight": 31,
+        "power": 247
+      },
+      "specStrings": {
+        "capacity": "10 m³",
+        "weight": "31000(OTTC) kg",
+        "power": "247/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20230721/truck-mixer-3_092028.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20230721/truck-mixer-3_092028.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 137,
+      "modelId": 137,
+      "goodsId": 122,
+      "reference": "SY310C-8S",
+      "name": "SY310C-8S - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/122/137/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "122",
+      "subCategoryModelId": "137",
+      "description": "SANY SY310C-8S Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear has decreased by 50%. SANY uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build-up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses SANY's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edges Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimizing chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper, and a ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space and to prevent aggregate from piling up at the front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which boasts five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep abreast of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard-mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance schedule."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "10",
+              "unit": "m³",
+              "valueWithUnit": "10 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "13600",
+              "unit": "kg",
+              "valueWithUnit": "13600 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "37600",
+              "unit": "kg",
+              "valueWithUnit": "37600 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "9300×2500×3985",
+              "unit": "mm",
+              "valueWithUnit": "9300×2500×3985 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3720+1350",
+              "unit": "mm",
+              "valueWithUnit": "3720+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "D09C3-360E3",
+              "unit": "",
+              "valueWithUnit": "D09C3-360E3"
+            },
+            {
+              "name": "Cab",
+              "value": "Sany Cab CB329",
+              "unit": "",
+              "valueWithUnit": "Sany Cab CB329"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "8.7",
+              "unit": "L",
+              "valueWithUnit": "8.7 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "265/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "265/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 10,
+        "weight": 37.6,
+        "power": 265
+      },
+      "specStrings": {
+        "capacity": "10 m³",
+        "weight": "37600 kg",
+        "power": "265/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20241227/3-axle_102828.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20241227/3-axle_102828.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 1611,
+      "modelId": 1611,
+      "goodsId": 122,
+      "reference": "SY310C-8S(538)",
+      "name": "SY310C-8S(538) - Mixer Truck",
+      "productFamily": "Mixer Truck",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/122/1611/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "122",
+      "subCategoryModelId": "1611",
+      "description": "SANY SY310C-8S(538) Mixer Truck for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear has decreased by 50%. SANY uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build-up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses SANY's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edges Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimizing chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper, and a ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space and to prevent aggregate from piling up at the front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which boasts five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep abreast of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard-mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance schedule."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "10",
+              "unit": "m³",
+              "valueWithUnit": "10 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "13600",
+              "unit": "kg",
+              "valueWithUnit": "13600 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "37600",
+              "unit": "kg",
+              "valueWithUnit": "37600 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "9300 x 2500 x 3985",
+              "unit": "mm",
+              "valueWithUnit": "9300 x 2500 x 3985 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3720 + 1350",
+              "unit": "mm",
+              "valueWithUnit": "3720 + 1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "Sany Power D09C3-380E3",
+              "unit": "",
+              "valueWithUnit": "Sany Power D09C3-380E3"
+            },
+            {
+              "name": "Cab",
+              "value": "Sany Cab CB329",
+              "unit": "",
+              "valueWithUnit": "Sany Cab CB329"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "8.7",
+              "unit": "L",
+              "valueWithUnit": "8.7 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "265/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "265/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 10,
+        "weight": 37.6,
+        "power": 265
+      },
+      "specStrings": {
+        "capacity": "10 m³",
+        "weight": "37600 kg",
+        "power": "265/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/sanyglobal-com-prd/prod/20251204/Sany-photo-SY310C-8S_145224.png?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/sanyglobal-com-prd/prod/20251204/Sany-photo-SY310C-8S_145224.png?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 179,
+      "modelId": 179,
+      "goodsId": 122,
+      "reference": "SY310C-8S(Ⅴ)",
+      "name": "SY310C-8S(Ⅴ) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/122/179/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "122",
+      "subCategoryModelId": "179",
+      "description": "SANY SY310C-8S(Ⅴ) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear has decreased by 50%. SANY uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build-up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses SANY's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edges Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimizing chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper, and a ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space and to prevent aggregate from piling up at the front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which boasts five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep abreast of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard-mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance schedule."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "10",
+              "unit": "m³",
+              "valueWithUnit": "10 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "13600",
+              "unit": "kg",
+              "valueWithUnit": "13600 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "37600",
+              "unit": "kg",
+              "valueWithUnit": "37600 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "9300×2500×3985",
+              "unit": "mm",
+              "valueWithUnit": "9300×2500×3985 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "3720+1350",
+              "unit": "mm",
+              "valueWithUnit": "3720+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "D09C5-360E3",
+              "unit": "",
+              "valueWithUnit": "D09C5-360E3"
+            },
+            {
+              "name": "Cab",
+              "value": "Sany Cab CB329",
+              "unit": "",
+              "valueWithUnit": "Sany Cab CB329"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "8.7",
+              "unit": "L",
+              "valueWithUnit": "8.7 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "265/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "265/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 10,
+        "weight": 37.6,
+        "power": 265
+      },
+      "specStrings": {
+        "capacity": "10 m³",
+        "weight": "37600 kg",
+        "power": "265/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20241227/3-axle_103005.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20241227/3-axle_103005.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 954,
+      "modelId": 954,
+      "goodsId": 142,
+      "reference": "SY408C-8FRBEV",
+      "name": "SY408C-8FRBEV - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/142/954/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "142",
+      "subCategoryModelId": "954",
+      "description": "SANY SY408C-8FRBEV Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Reduced Sound Level",
+          "description": "Low-noise machines protect residents and the personnel working directly on the construction site; with SANY-eMixer, the noise level can be significantly reduced to protect the health of everyone in the vicinity."
+        },
+        {
+          "title": "100% Performance, 0% Emissions",
+          "description": "CO2 emissions were reduced by up to 100%(184.8 kg), sound levels were significantly reduced, and fuel consumption was reduced by up to 70 L of diesel."
+        },
+        {
+          "title": "Durable Mileage",
+          "description": "Equipped with a high-capacity battery, it must be charged only once daily and can operate over 150 km under routine conditions."
+        },
+        {
+          "title": "Powerful Performance, More Intelligence",
+          "description": "High-power motor engines matching 6-speed transmissions allow a maximum grade ability of 30%. A cockpit with a 360-degree panoramic image gives the driver a complete overview of the fleet."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "8",
+              "unit": "m³",
+              "valueWithUnit": "8 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "14100",
+              "unit": "kg",
+              "valueWithUnit": "14100 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "30000",
+              "unit": "kg",
+              "valueWithUnit": "30000 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "9940×2500×3850",
+              "unit": "mm",
+              "valueWithUnit": "9940×2500×3850 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "1700+3250+1350",
+              "unit": "mm",
+              "valueWithUnit": "1700+3250+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Battery",
+          "specifications": [
+            {
+              "name": "Total Energy Storage",
+              "value": "282",
+              "unit": "kWh",
+              "valueWithUnit": "282 kWh"
+            },
+            {
+              "name": "Battery Brand",
+              "value": "CATL",
+              "unit": "",
+              "valueWithUnit": "CATL"
+            },
+            {
+              "name": "Power Battery Type",
+              "value": "LFP Battery",
+              "unit": "",
+              "valueWithUnit": "LFP Battery"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Vehicle Type",
+              "value": "8×4",
+              "unit": "",
+              "valueWithUnit": "8×4"
+            },
+            {
+              "name": "Cab",
+              "value": "CB318 Right PRO",
+              "unit": "",
+              "valueWithUnit": "CB318 Right PRO"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 8,
+        "weight": 30
+      },
+      "specStrings": {
+        "capacity": "8 m³",
+        "weight": "30000 kg",
+        "power": ""
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20230530/408_174019.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20230530/408_174019.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 1612,
+      "modelId": 1612,
+      "goodsId": 122,
+      "reference": "SY410C-8K(Dry)",
+      "name": "SY410C-8K(Dry) - Mixer Truck",
+      "productFamily": "Mixer Truck",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/122/1612/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "122",
+      "subCategoryModelId": "1612",
+      "description": "SANY SY410C-8K(Dry) Mixer Truck for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear has decreased by 50%. SANY uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build-up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses SANY's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edges Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimizing chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper, and a ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space and to prevent aggregate from piling up at the front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which boasts five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep abreast of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard-mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance schedule."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "10",
+              "unit": "m³",
+              "valueWithUnit": "10 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "400",
+              "unit": "L",
+              "valueWithUnit": "400 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "15300",
+              "unit": "kg",
+              "valueWithUnit": "15300 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "39300",
+              "unit": "kg",
+              "valueWithUnit": "39300 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "10050 x 2550 x 3930",
+              "unit": "mm",
+              "valueWithUnit": "10050 x 2550 x 3930 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "1900 + 2950",
+              "unit": "mm",
+              "valueWithUnit": "1900 + 2950 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "Cummins M10E3-410",
+              "unit": "",
+              "valueWithUnit": "Cummins M10E3-410"
+            },
+            {
+              "name": "Cab",
+              "value": "Sany Cab CB329",
+              "unit": "",
+              "valueWithUnit": "Sany Cab CB329"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "9.9",
+              "unit": "L",
+              "valueWithUnit": "9.9 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "301/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "301/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 10,
+        "weight": 39.3,
+        "power": 301
+      },
+      "specStrings": {
+        "capacity": "10 m³",
+        "weight": "39300 kg",
+        "power": "301/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/sanyglobal-com-prd/prod/20251204/Sany-photo-SY410C-8K(Dry)_155548.png?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/sanyglobal-com-prd/prod/20251204/Sany-photo-SY410C-8K(Dry)_155548.png?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 189,
+      "modelId": 189,
+      "goodsId": 120,
+      "reference": "SY412C-6W",
+      "name": "SY412C-6W - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/120/189/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "120",
+      "subCategoryModelId": "189",
+      "description": "SANY SY412C-6W Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "12",
+              "unit": "m³",
+              "valueWithUnit": "12 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "800",
+              "unit": "L",
+              "valueWithUnit": "800 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "14660(GCC)",
+              "unit": "kg",
+              "valueWithUnit": "14660(GCC) kg"
+            },
+            {
+              "name": "GVW",
+              "value": "43460(GCC)",
+              "unit": "kg",
+              "valueWithUnit": "43460(GCC) kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "9825×2525×3980(GCC)",
+              "unit": "mm",
+              "valueWithUnit": "9825×2525×3980(GCC) mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "1900+2950+1350",
+              "unit": "mm",
+              "valueWithUnit": "1900+2950+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "WP12.430N",
+              "unit": "",
+              "valueWithUnit": "WP12.430N"
+            },
+            {
+              "name": "Cab",
+              "value": "SANY Cab CB318",
+              "unit": "",
+              "valueWithUnit": "SANY Cab CB318"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "11.596",
+              "unit": "L",
+              "valueWithUnit": "11.596 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "316/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "316/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 12,
+        "weight": 43.46,
+        "power": 316
+      },
+      "specStrings": {
+        "capacity": "12 m³",
+        "weight": "43460(GCC) kg",
+        "power": "316/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20230721/truck-mixer_091232.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20230721/truck-mixer_091232.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 184,
+      "modelId": 184,
+      "goodsId": 120,
+      "reference": "SY412C-8S(AMT)",
+      "name": "SY412C-8S(AMT) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/120/184/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "120",
+      "subCategoryModelId": "184",
+      "description": "SANY SY412C-8S(AMT) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "12",
+              "unit": "m³",
+              "valueWithUnit": "12 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "800",
+              "unit": "L",
+              "valueWithUnit": "800 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "152000",
+              "unit": "kg",
+              "valueWithUnit": "152000 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "44000",
+              "unit": "kg",
+              "valueWithUnit": "44000 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "10300×2525×3980",
+              "unit": "mm",
+              "valueWithUnit": "10300×2525×3980 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "1900+2950+1350",
+              "unit": "mm",
+              "valueWithUnit": "1900+2950+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "D12C3-490E1",
+              "unit": "",
+              "valueWithUnit": "D12C3-490E1"
+            },
+            {
+              "name": "Cab",
+              "value": "Sany Cab CB329",
+              "unit": "",
+              "valueWithUnit": "Sany Cab CB329"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "12.12",
+              "unit": "L",
+              "valueWithUnit": "12.12 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "360/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "360/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 12,
+        "weight": 44,
+        "power": 360
+      },
+      "specStrings": {
+        "capacity": "12 m³",
+        "weight": "44000 kg",
+        "power": "360/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20250724/SY412C-8S(Ⅴ)_160259.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20250724/SY412C-8S(Ⅴ)_160259.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 176,
+      "modelId": 176,
+      "goodsId": 120,
+      "reference": "SY412C-8S(V)",
+      "name": "SY412C-8S(V) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/120/176/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "120",
+      "subCategoryModelId": "176",
+      "description": "SANY SY412C-8S(V) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "12",
+              "unit": "m³",
+              "valueWithUnit": "12 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "1000(With Heating)",
+              "unit": "L",
+              "valueWithUnit": "1000(With Heating) L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "15300",
+              "unit": "kg",
+              "valueWithUnit": "15300 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "42000",
+              "unit": "kg",
+              "valueWithUnit": "42000 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "10300×2542×3980",
+              "unit": "mm",
+              "valueWithUnit": "10300×2542×3980 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "1900+2950+1350",
+              "unit": "mm",
+              "valueWithUnit": "1900+2950+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "D12C5-435E1",
+              "unit": "",
+              "valueWithUnit": "D12C5-435E1"
+            },
+            {
+              "name": "Cab",
+              "value": "Sany Cab CB329",
+              "unit": "",
+              "valueWithUnit": "Sany Cab CB329"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "12.12",
+              "unit": "L",
+              "valueWithUnit": "12.12 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "320/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "320/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 12,
+        "weight": 42,
+        "power": 320
+      },
+      "specStrings": {
+        "capacity": "12 m³",
+        "weight": "42000 kg",
+        "power": "320/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20250724/SY412C-8S(Ⅴ)-OE_160931.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20250724/SY412C-8S(Ⅴ)-OE_160931.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 178,
+      "modelId": 178,
+      "goodsId": 120,
+      "reference": "SY412C-8S(Ⅴ)",
+      "name": "SY412C-8S(Ⅴ) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/120/178/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "120",
+      "subCategoryModelId": "178",
+      "description": "SANY SY412C-8S(Ⅴ) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear is decreased by 50%. Sany uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses Sany's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edge Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimized chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper and ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space, and to prevent aggregate from piling up at front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which features five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep good management of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance scheduling."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "12",
+              "unit": "m³",
+              "valueWithUnit": "12 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "1000",
+              "unit": "L",
+              "valueWithUnit": "1000 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "15200",
+              "unit": "kg",
+              "valueWithUnit": "15200 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "44000",
+              "unit": "kg",
+              "valueWithUnit": "44000 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "10300×2525×3980",
+              "unit": "mm",
+              "valueWithUnit": "10300×2525×3980 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "1900+2950+1350",
+              "unit": "mm",
+              "valueWithUnit": "1900+2950+1350 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "D12C5-435E1",
+              "unit": "",
+              "valueWithUnit": "D12C5-435E1"
+            },
+            {
+              "name": "Cab",
+              "value": "Sany Cab CB329",
+              "unit": "",
+              "valueWithUnit": "Sany Cab CB329"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "12.12",
+              "unit": "L",
+              "valueWithUnit": "12.12 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "320/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "320/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 12,
+        "weight": 44,
+        "power": 320
+      },
+      "specStrings": {
+        "capacity": "12 m³",
+        "weight": "44000 kg",
+        "power": "320/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20250724/SY412C-8S(Ⅴ)_160013.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20250724/SY412C-8S(Ⅴ)_160013.jpg?x-oss-process=image/format,webp"
+      ]
+    },
+    {
+      "id": 135,
+      "modelId": 135,
+      "goodsId": 122,
+      "reference": "SY510C-8Y(VI R)",
+      "name": "SY510C-8Y(VI R) - Truck Mixer",
+      "productFamily": "Truck Mixer",
+      "sourceUrl": "https://www.sanyglobal.com/product/concrete_machinery/truck_mixer/122/135/",
+      "category": "concrete_machinery",
+      "subCategory": "truck_mixer",
+      "subCategoryGoodsId": "122",
+      "subCategoryModelId": "135",
+      "description": "SANY SY510C-8Y(VI R) Truck Mixer for Sale, High Efficiency & Low Consumption SANY Truck Mixer Price. 24h Star Service, Get a Quote.",
+      "features": [
+        {
+          "title": "Specialized Cab",
+          "description": "Safe and secure Built for the driver Convenient ACCESS maintenance Attractive styling Panoramic monitoring (optional)"
+        },
+        {
+          "title": "Improved Braking",
+          "description": "By making full use of exhaust valve braking technology, braking distance has been reduced by 15% and brake lining wear has decreased by 50%. SANY uses a high-volume air compressor, high quality piping, and new sealing technology that shortens air build-up time and brake response time."
+        },
+        {
+          "title": "Energy-saving Technology",
+          "description": "The engine dual power mode, coupled with the unique intelligent transmission's power matching technology makes a 10% fuel savings."
+        },
+        {
+          "title": "Low Deck Technology",
+          "description": "The frame is made of high-strength special steel plates, improving reliability and safety. It uses SANY's original subframe-free structure combined with the hollow front and back-end structure design, reducing the center of gravity by 100mm and making the vehicle lighter."
+        },
+        {
+          "title": "Leading Edges Steering Technology",
+          "description": "The large displacement power steering pump reduces operator effort by 40%. Optimizing chassis geometry and front axle steering angle reduces the minimum turning radius by 15%."
+        },
+        {
+          "title": "Anti-buildup Technology",
+          "description": "The three-section blade provides an efficient discharge angle. The flushing device, an innovative front taper, and a ball-crown connecting structure are installed at the rear taper, in order to clear stagnant aggregate from the dead space and to prevent aggregate from piling up at the front and rear tapers. Due to this, the residual rate at the discharge port declines to 0.4%."
+        },
+        {
+          "title": "Smart Operating Technology",
+          "description": "Each truck is equipped with a GPS system, which boasts five functions including vehicle monitoring, record/playback, alarm reporting, fleet management, statistics and analysis. With this information you can keep abreast of the mixer truck's location, maintenance items, discharge, etc."
+        },
+        {
+          "title": "Maintenance Tips",
+          "description": "Dashboard-mounted monitor provides maintenance alarms for the truck's key components such as engine, axle, and transmission in order to facilitate maintenance schedule."
+        }
+      ],
+      "technicalSpecifications": [
+        {
+          "groupName": "Drum",
+          "specifications": [
+            {
+              "name": "Mix Capacity",
+              "value": "10",
+              "unit": "m³",
+              "valueWithUnit": "10 m³"
+            },
+            {
+              "name": "Feeding Speed",
+              "value": "≥8",
+              "unit": "m³/min",
+              "valueWithUnit": "≥8 m³/min"
+            },
+            {
+              "name": "Discharge Speed",
+              "value": "≥5",
+              "unit": "m³/min",
+              "valueWithUnit": "≥5 m³/min"
+            },
+            {
+              "name": "Water Tank Capacity",
+              "value": "300",
+              "unit": "L",
+              "valueWithUnit": "300 L"
+            }
+          ]
+        },
+        {
+          "groupName": "Overall Specification",
+          "specifications": [
+            {
+              "name": "Curb Weight",
+              "value": "13800",
+              "unit": "kg",
+              "valueWithUnit": "13800 kg"
+            },
+            {
+              "name": "GVW",
+              "value": "38000",
+              "unit": "kg",
+              "valueWithUnit": "38000 kg"
+            },
+            {
+              "name": "Dimension (L×H×W)",
+              "value": "9750×2500×3900",
+              "unit": "mm",
+              "valueWithUnit": "9750×2500×3900 mm"
+            },
+            {
+              "name": "Wheel Base",
+              "value": "1700+2700+1350+1400",
+              "unit": "mm",
+              "valueWithUnit": "1700+2700+1350+1400 mm"
+            }
+          ]
+        },
+        {
+          "groupName": "Driving Motor",
+          "specifications": [
+            {
+              "name": "Engine Brand",
+              "value": "YCK11 430",
+              "unit": "",
+              "valueWithUnit": "YCK11 430"
+            },
+            {
+              "name": "Cab",
+              "value": "SANY Cab CB318",
+              "unit": "",
+              "valueWithUnit": "SANY Cab CB318"
+            }
+          ]
+        },
+        {
+          "groupName": "Engine",
+          "specifications": [
+            {
+              "name": "Displacement",
+              "value": "10.98",
+              "unit": "L",
+              "valueWithUnit": "10.98 L"
+            },
+            {
+              "name": "Rated Power/Rev Speed",
+              "value": "316/1900",
+              "unit": "kW/rpm",
+              "valueWithUnit": "316/1900 kW/rpm"
+            }
+          ]
+        }
+      ],
+      "numericSpecs": {
+        "capacity": 10,
+        "weight": 38,
+        "power": 316
+      },
+      "specStrings": {
+        "capacity": "10 m³",
+        "weight": "38000 kg",
+        "power": "316/1900 kW/rpm"
+      },
+      "imageUrl": "https://sanyglobal-img.sany.com.cn/prod/20250724/SY510C-8Y(Ⅵ-R)_162613.jpg?x-oss-process=image/format,webp",
+      "allImageUrls": [
+        "https://sanyglobal-img.sany.com.cn/prod/20250724/SY510C-8Y(Ⅵ-R)_162613.jpg?x-oss-process=image/format,webp"
+      ]
+    }
+  ],
+  "failures": []
+}

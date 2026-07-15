@@ -1,0 +1,735 @@
+{
+  "products": [
+    {
+      "id": "sany-pompe-beton-37m",
+      "category": "pompes-beton",
+      "brand": "SANY",
+      "title": "SANY POMPE À BÉTON MONTÉE SUR CAMION DE MOINS DE 37M",
+      "shortTitle": "POMPE À BÉTON MONTÉE SUR CAMION DE MOINS DE 37M",
+      "description": "Pompe à béton montée sur camion haute performance pour projets de construction de moyenne envergure",
+      "specs": {
+        "portee": "Portée verticale: 24 - 36 m",
+        "pression": "Pression: 6 - 6.6 MPa",
+        "sortie": "Sortie: 100 - 150 m³/h"
+      },
+      "models": [
+        "SYG5211THB 25C-10(SZ-EU)",
+        "SYG5200THB 25C-8(SZ-RU)"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/prod/20250716/1_140856.jpg?x-oss-process=image/format,webp",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "sany-pompe-beton-stationnaire",
+      "category": "pompes-beton",
+      "brand": "SANY",
+      "title": "SANY POMPE À BÉTON STATIONNAIRE",
+      "shortTitle": "POMPE À BÉTON STATIONNAIRE",
+      "description": "Pompe à béton stationnaire haute capacité pour les grands chantiers de construction",
+      "specs": {
+        "portee": "Portée: jusqu'à 120 m",
+        "pression": "Capacité: 60 - 120 m³/h",
+        "sortie": "Moteur: Diesel/Électrique"
+      },
+      "models": [
+        "HBT9028CH-5S",
+        "HBT9032CH",
+        "HBT9038CH"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/prod/20240415/2_103240.jpg?x-oss-process=image/format,webp",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "sany-camion-toupie",
+      "category": "beton",
+      "brand": "SANY",
+      "title": "SANY CAMION-TOUPIE",
+      "shortTitle": "CAMION-TOUPIE",
+      "description": "Camion-toupie idéal pour le transport et la livraison de béton frais sur les chantiers",
+      "specs": {
+        "portee": "Capacité: 6 - 10 m³",
+        "pression": "Vitesse de rotation: 0 - 16 tr/min",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SYM5252GJBQ",
+        "SYM5310GJBQ",
+        "SYM5400GJBQ"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/prod/20240701/2-axle-1_145346.png?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-mini-excavatrice",
+      "category": "excavation",
+      "brand": "SANY",
+      "title": "SANY MINI EXCAVATRICE",
+      "shortTitle": "MINI EXCAVATRICE",
+      "description": "Mini excavatrice compacte pour les travaux en espaces restreints et démolition sélective",
+      "specs": {
+        "portee": "Poids: 2 - 5 tonnes",
+        "pression": "Puissance: 10 - 15 kW",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SY16C",
+        "SY27C",
+        "SY35C"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200817/2T~5T%20Mini%20Exca-174719?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-chargeuse-roues",
+      "category": "manutention",
+      "brand": "SANY",
+      "title": "SANY CHARGEUSE SUR ROUES",
+      "shortTitle": "CHARGEUSE SUR ROUES",
+      "description": "Chargeuse sur roues compacte pour chargement et transport de matériaux",
+      "specs": {
+        "portee": "Capacité godet: 1.5 - 2.5 m³",
+        "pression": "Puissance: 60 - 100 kW",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SWL32F",
+        "SWL50F",
+        "SWL80F"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/prod/20230621/956%20(1)_164455.png?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-grue-camion-50-100t",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE MONTÉE SUR CAMION 50-100T",
+      "shortTitle": "GRUE MONTÉE SUR CAMION 50-100T",
+      "description": "Grue montée sur camion pour levage et manutention de charges lourdes (50-100 tonnes)",
+      "specs": {
+        "portee": "Portée: 15 - 50 m",
+        "pression": "Capacité: 50 - 100 tonnes",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "STC300T",
+        "STC400T"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200817/50~100T%20Truck%20c-192016?x-oss-process=image/format,webp",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "sany-grue-camion-100t",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE MONTÉE SUR CAMION +100T",
+      "shortTitle": "GRUE MONTÉE SUR CAMION +100T",
+      "description": "Grue montée sur camion haute capacité pour les plus gros travaux de levage (>100 tonnes)",
+      "specs": {
+        "portee": "Portée: 30 - 60 m",
+        "pression": "Capacité: 100 - 300 tonnes",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "STC500T"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200817/over%20100T%20Truck-192038?x-oss-process=image/format,webp",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "sany-grue-tout-terrain-100-200t",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE TOUT-TERRAIN 100-200T",
+      "shortTitle": "GRUE TOUT-TERRAIN 100-200T",
+      "description": "Grue tout-terrain pour applications exigeantes sur terrains accidentés (100-200 tonnes)",
+      "specs": {
+        "portee": "Portée: 20 - 50 m",
+        "pression": "Capacité: 100 - 200 tonnes",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SAC300",
+        "SAC400"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200817/100~200T%20All-te-193759?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-grue-tout-terrain-200-300t",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE TOUT-TERRAIN 200-300T",
+      "shortTitle": "GRUE TOUT-TERRAIN 200-300T",
+      "description": "Grue tout-terrain grande capacité pour les projets majeurs (200-300 tonnes)",
+      "specs": {
+        "portee": "Portée: 30 - 60 m",
+        "pression": "Capacité: 200 - 300 tonnes",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SAC4500S"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20220627/SAC4500S-000818.jpg?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-grue-terrain-accidente-30-50t",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE TERRAIN ACCIDENTÉ 30-50T",
+      "shortTitle": "GRUE TERRAIN ACCIDENTÉ 30-50T",
+      "description": "Grue pour terrains accidentés légère à moyenne (30-50 tonnes)",
+      "specs": {
+        "portee": "Portée: 15 - 40 m",
+        "pression": "Capacité: 30 - 50 tonnes",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SRC250C"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200817/30~50T%20Rough-te-193902?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-grue-terrain-accidente-50-80t",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE TERRAIN ACCIDENTÉ 50-80T",
+      "shortTitle": "GRUE TERRAIN ACCIDENTÉ 50-80T",
+      "description": "Grue pour terrains accidentés moyenne à grande capacité (50-80 tonnes)",
+      "specs": {
+        "portee": "Portée: 20 - 50 m",
+        "pression": "Capacité: 50 - 80 tonnes",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SRC350C"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200817/50~80T%20Rough-te-193920?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-grue-terrain-accidente-80t",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE TERRAIN ACCIDENTÉ +80T",
+      "shortTitle": "GRUE TERRAIN ACCIDENTÉ +80T",
+      "description": "Grue pour terrains accidentés haute capacité (>80 tonnes)",
+      "specs": {
+        "portee": "Portée: 30 - 60 m",
+        "pression": "Capacité: 80 - 160 tonnes",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SRC500C"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200817/over%2080T%20Rough--193946?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-grue-chenilles-lattice",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE SUR CHENILLES - TREILLIS",
+      "shortTitle": "GRUE SUR CHENILLES - TREILLIS",
+      "description": "Grue sur chenilles avec mât en treillis pour très grandes portées",
+      "specs": {
+        "portee": "Portée: 30 - 80 m",
+        "pression": "Capacité: 25 - 800 tonnes",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SCC2600",
+        "SCC3200",
+        "SCC4000"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20230329/02_144704.jpg?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-grue-tour",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE À TOUR",
+      "shortTitle": "GRUE À TOUR",
+      "description": "Grue à tour pour construction immobilière avec grande stabilité",
+      "specs": {
+        "portee": "Portée: 50 - 80 m",
+        "pression": "Capacité: 25 - 80 tonnes",
+        "sortie": "Moteur: Électrique"
+      },
+      "models": [
+        "Topkit Tower Crane",
+        "Flat Top Tower Crane",
+        "SLT260"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200817/Flat%20top%20tower%20-194920?x-oss-process=image/format,webp",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "sany-grue-montee-camion-2t",
+      "category": "grues",
+      "brand": "SANY",
+      "title": "SANY GRUE MONTÉE SUR CAMION LÉGÈRE",
+      "shortTitle": "GRUE MONTÉE SUR CAMION LÉGÈRE",
+      "description": "Grue montée sur camion compacte pour applications légères en chantier",
+      "specs": {
+        "portee": "Portée: 8 - 25 m",
+        "pression": "Capacité: 2 - 10 tonnes",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "Truck-mounted Crane"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200902/Truck-mounted%20c-190538.jpg?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-compacteur-vibrant",
+      "category": "terrassement",
+      "brand": "SANY",
+      "title": "SANY COMPACTEUR VIBRANT",
+      "shortTitle": "COMPACTEUR VIBRANT",
+      "description": "Compacteur vibrant automoteur pour la compaction du sol et du béton",
+      "specs": {
+        "portee": "Poids: 8 - 15 tonnes",
+        "pression": "Largeur: 2 - 2.5 m",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SSR800",
+        "STR140"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/prod/20250704/SSR-800-480-AC_112921.png?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-niveleuse",
+      "category": "terrassement",
+      "brand": "SANY",
+      "title": "SANY NIVELEUSE",
+      "shortTitle": "NIVELEUSE",
+      "description": "Niveleuse pour l'égalisation et la finition des routes et surfaces",
+      "specs": {
+        "portee": "Poids: 13 - 20 tonnes",
+        "pression": "Largeur lame: 3.5 - 4.5 m",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "STG800",
+        "SMG200"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/prod/20250704/STG-800-480_144543.png?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-finisseur",
+      "category": "terrassement",
+      "brand": "SANY",
+      "title": "SANY FINISSEUR D'ASPHALTE",
+      "shortTitle": "FINISSEUR D'ASPHALTE",
+      "description": "Finisseur pour la pose du béton ou bitume avec finition de surface lisse",
+      "specs": {
+        "portee": "Poids: 9 - 13 tonnes",
+        "pression": "Largeur: 3 - 4 m",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SSP130C",
+        "SAP800"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/prod/20250704/SAP-800-480_143918.png?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-fraiseuse",
+      "category": "terrassement",
+      "brand": "SANY",
+      "title": "SANY FRAISEUSE ROUTIÈRE",
+      "shortTitle": "FRAISEUSE ROUTIÈRE",
+      "description": "Fraiseuse pour l'enlèvement et le recyclage de revêtements routiers",
+      "specs": {
+        "portee": "Poids: 8 - 14 tonnes",
+        "pression": "Largeur: 2 - 3 m",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SCM800"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/prod/20250704/SCM-800-480_113804.png?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-camion-benne",
+      "category": "transport",
+      "brand": "SANY",
+      "title": "SANY CAMION BENNE",
+      "shortTitle": "CAMION BENNE",
+      "description": "Camion benne pour le transport de matériaux en vrac sur route",
+      "specs": {
+        "portee": "Capacité: 20 - 50 tonnes",
+        "pression": "Volume: 10 - 20 m³",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SYZ5250"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/prod/20250707/%E7%87%83%E6%B2%B9%E8%BD%A6_160230.png?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-camion-minier",
+      "category": "transport",
+      "brand": "SANY",
+      "title": "SANY CAMION MINIER TOUT-TERRAIN",
+      "shortTitle": "CAMION MINIER TOUT-TERRAIN",
+      "description": "Camion minier tout-terrain pour le transport de matériaux et minerais",
+      "specs": {
+        "portee": "Capacité: 40 - 90 tonnes",
+        "pression": "Volume: 20 - 40 m³",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SET150S",
+        "SKT90",
+        "SRT100"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20220304/SET150S-02-160026.jpg?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "sany-reach-stacker",
+      "category": "manutention-portuaire",
+      "brand": "SANY",
+      "title": "SANY REACH STACKER",
+      "shortTitle": "REACH STACKER",
+      "description": "Reach stacker pour la manutention de conteneurs dans les ports et dépôts",
+      "specs": {
+        "portee": "Capacité: 30 - 50 tonnes",
+        "pression": "Hauteur: jusqu'à 10 m",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SRS45",
+        "SRS50"
+      ],
+      "image": "https://sanyglobal-img.sany.com.cn/product/goods/20200818/below%2040T%20Reach-084958?x-oss-process=image/format,webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "toyota-chariot-electrique",
+      "category": "chariots-elevateurs",
+      "brand": "TOYOTA",
+      "title": "TOYOTA CHARIOT ÉLÉVATEUR ÉLECTRIQUE",
+      "shortTitle": "CHARIOT ÉLÉVATEUR ÉLECTRIQUE",
+      "description": "Chariot élévateur électrique écologique et silencieux, idéal pour les entrepôts et espaces intérieurs",
+      "specs": {
+        "portee": "Capacité: 1.5 - 3.5 tonnes",
+        "pression": "Hauteur de levage: 3 - 6m",
+        "sortie": "Moteur: Électrique"
+      },
+      "models": [
+        "BT",
+        "RBT",
+        "EBT"
+      ],
+      "image": "https://www.lismanforklifts.com/images/bIFKDsLHutAUxJVj6ETNTFGLAG8=/360/width-720/electric2.d46814.jpeg",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "fabo-centrale-beton-fixe",
+      "category": "centrales-beton",
+      "brand": "FABO",
+      "title": "FABO CENTRALE À BÉTON FIXE",
+      "shortTitle": "CENTRALE À BÉTON FIXE",
+      "description": "Centrale à béton fixe pour la production continue de béton en usine",
+      "specs": {
+        "portee": "Capacité: 50 - 200 m³/h",
+        "pression": "Malaxeur: Pan/Axial",
+        "sortie": "Système de contrôle: Siemens/ABB"
+      },
+      "models": [
+        "POWERMIX-60",
+        "POWERMIX-90",
+        "POWERMIX-100"
+      ],
+      "image": "https://fabo.com.tr/wp-content/uploads/2021/08/Powermix-60-Centrale-a-beton-fixe-min.jpg",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "fabo-centrale-beton-mobile",
+      "category": "centrales-beton",
+      "brand": "FABO",
+      "title": "FABO CENTRALE À BÉTON MOBILE",
+      "shortTitle": "CENTRALE À BÉTON MOBILE",
+      "description": "Centrale à béton mobile pour la production de béton sur chantier avec mobilité optimale",
+      "specs": {
+        "portee": "Capacité: 50 - 150 m³/h",
+        "pression": "Transport: Remorque/Châssis",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "TURBOMIX-60",
+        "TURBOMIX-90",
+        "TURBOMIX-150"
+      ],
+      "image": "https://fabo.com.tr/wp-content/uploads/2021/09/Turbomix-60-Centrales-a-Beton-Mobile-avec-Une-Malaxeur-a-Pan-min.jpg",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "fabo-concasseur-mobile",
+      "category": "concasseurs",
+      "brand": "FABO",
+      "title": "FABO CONCASSEUR MOBILE",
+      "shortTitle": "CONCASSEUR MOBILE",
+      "description": "Concasseur mobile sur chenilles pour le concassage de matériaux en site",
+      "specs": {
+        "portee": "Capacité: 100 - 300 tonnes/h",
+        "pression": "Transport: Sur chenilles",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "FTB-15-50",
+        "Concasseur à Percussion"
+      ],
+      "image": "https://fabo.com.tr/wp-content/uploads/2023/04/Concasseurs-Mobiles-sur-Chenilless.webp",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "fabo-station-concassage-fixe",
+      "category": "concasseurs",
+      "brand": "FABO",
+      "title": "FABO STATION DE CONCASSAGE FIXE",
+      "shortTitle": "STATION DE CONCASSAGE FIXE",
+      "description": "Station fixe de concassage et criblage pour la production de granulats",
+      "specs": {
+        "portee": "Capacité: 100 - 500 tonnes/h",
+        "pression": "Configuration: Multi-étages",
+        "sortie": "Moteur: Diesel/Électrique"
+      },
+      "models": [
+        "Station Primaire",
+        "Station Secondaire"
+      ],
+      "image": "https://fabo.com.tr/wp-content/uploads/2021/08/Station-de-Concassage-Fixes.jpg",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "teksan-groupe-diesel-8kva",
+      "category": "groupes-electrogenes",
+      "brand": "TEKSAN",
+      "title": "TEKSAN GROUPE ÉLECTROGÈNE DIESEL 8KVA",
+      "shortTitle": "GROUPE ÉLECTROGÈNE DIESEL 8KVA",
+      "description": "Groupe électrogène diesel compact 8 kVA pour application industrielle et de secours",
+      "specs": {
+        "portee": "Puissance: 8 kVA",
+        "pression": "Consommation: Économique",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "TJ8BD-1",
+        "TJ8PE-1"
+      ],
+      "image": "https://cdn.teksan.com/DataPict/Large/dizel-jenerator-1-79.png",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "teksan-groupe-diesel-12kva",
+      "category": "groupes-electrogenes",
+      "brand": "TEKSAN",
+      "title": "TEKSAN GROUPE ÉLECTROGÈNE DIESEL 12KVA",
+      "shortTitle": "GROUPE ÉLECTROGÈNE DIESEL 12KVA",
+      "description": "Groupe électrogène diesel haute puissance 12 kVA pour applications industrielles lourdes",
+      "specs": {
+        "portee": "Puissance: 12 kVA",
+        "pression": "Consommation: Optimisée",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "TJ12BD-1",
+        "TJ12PE6"
+      ],
+      "image": "https://cdn.teksan.com/DataPict/Thumbs/TJ12PE6L-60-12-c1.jpg?v=2",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "ajax-malaxeur-autochargeant",
+      "category": "malaxeurs",
+      "brand": "AJAX",
+      "title": "AJAX MALAXEUR AUTOCHARGEANT",
+      "shortTitle": "MALAXEUR AUTOCHARGEANT",
+      "description": "Malaxeur autochargeant compact pour mélange de béton avec efficacité maximale",
+      "specs": {
+        "portee": "Capacité: 2 - 4.8 m³",
+        "pression": "Chargement: Automatique",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "SPX1024",
+        "ARGO 2000DM"
+      ],
+      "image": "https://cdn.prod.website-files.com/65006e6ed741800ddeb94c08/655475e5fd4185156a1a49a8_SPX1024.webp",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "sunward-foreuse-roches",
+      "category": "foreuses",
+      "brand": "SUNWARD",
+      "title": "SUNWARD FOREUSE DE ROCHES",
+      "shortTitle": "FOREUSE DE ROCHES",
+      "description": "Foreuse de roches pour forage géotechnique et exploitation minière profonde",
+      "specs": {
+        "portee": "Profondeur: jusqu'à 1000 m",
+        "pression": "Puissance: 200 - 500 kW",
+        "sortie": "Moteur: Diesel"
+      },
+      "models": [
+        "Rock Drilling Rig"
+      ],
+      "image": "https://www.sunwardmachine.com/upload/product/1747635570685331.jpg.webp",
+      "featured": false,
+      "available": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "pompes-beton",
+      "name": "Pompes à Béton",
+      "description": "Pompes à béton montées sur camion et stationnaires pour tous types de projets"
+    },
+    {
+      "id": "beton",
+      "name": "Équipements Béton",
+      "description": "Camions-toupies et équipements de transport de béton frais"
+    },
+    {
+      "id": "excavation",
+      "name": "Excavation",
+      "description": "Excavatrices hydrauliques pour terrassement et démolition"
+    },
+    {
+      "id": "chariots-elevateurs",
+      "name": "Chariots Élévateurs",
+      "description": "Chariots élévateurs électriques et thermiques pour manutention"
+    },
+    {
+      "id": "grues",
+      "name": "Grues",
+      "description": "Grues mobiles, tout-terrain, sur chenilles et à tour pour levage de charges lourdes"
+    },
+    {
+      "id": "terrassement",
+      "name": "Terrassement & Routes",
+      "description": "Compacteurs, niveleuses, finisseurs et fraiseuses pour travaux routiers"
+    },
+    {
+      "id": "transport",
+      "name": "Transport",
+      "description": "Camions bennes et camions miniers pour transport de matériaux"
+    },
+    {
+      "id": "manutention",
+      "name": "Manutention",
+      "description": "Chargeuses et équipements de manutention légère et transport"
+    },
+    {
+      "id": "manutention-portuaire",
+      "name": "Manutention Portuaire",
+      "description": "Reach stackers, grues portuaires, portiques à conteneurs, tracteurs de terminal et manutentionnaires de conteneurs vides"
+    },
+    {
+      "id": "centrales-beton",
+      "name": "Centrales à Béton",
+      "description": "Centrales à béton fixes et mobiles pour production de béton"
+    },
+    {
+      "id": "concasseurs",
+      "name": "Concasseurs",
+      "description": "Concasseurs mobiles et stations de concassage fixe"
+    },
+    {
+      "id": "groupes-electrogenes",
+      "name": "Groupes Électrogènes",
+      "description": "Groupes électrogènes diesel pour applications industrielles"
+    },
+    {
+      "id": "malaxeurs",
+      "name": "Malaxeurs",
+      "description": "Malaxeurs autochargeants pour béton et mortier"
+    },
+    {
+      "id": "foreuses",
+      "name": "Foreuses",
+      "description": "Foreuses de roches pour forage géotechnique et minier"
+    }
+  ],
+  "brands": [
+    {
+      "id": "sany",
+      "name": "SANY",
+      "logo": "/images/logos/sany.png",
+      "description": "Leader mondial en équipements de construction et BTP"
+    },
+    {
+      "id": "toyota",
+      "name": "TOYOTA",
+      "logo": "/images/logos/toyota.png",
+      "description": "Excellence en chariots élévateurs et solutions de manutention"
+    },
+    {
+      "id": "fabo",
+      "name": "FABO",
+      "logo": "/images/logos/fabo.png",
+      "description": "Spécialiste des centrales à béton et concasseurs"
+    },
+    {
+      "id": "teksan",
+      "name": "TEKSAN",
+      "logo": "/images/logos/teksan.png",
+      "description": "Expert en groupes électrogènes et solutions énergétiques"
+    },
+    {
+      "id": "ajax",
+      "name": "AJAX",
+      "logo": "/images/logos/ajax.png",
+      "description": "Innovateur en malaxeurs autochargeants et solutions béton"
+    },
+    {
+      "id": "sunward",
+      "name": "SUNWARD",
+      "logo": "/images/logos/sunward.png",
+      "description": "Spécialiste des foreuses de roches et équipements miniers"
+    }
+  ]
+}
