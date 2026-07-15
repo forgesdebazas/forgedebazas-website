@@ -2030,7 +2030,7 @@ export const translations = {
       careersDesc: "Únase a una empresa dinámica, orientada hacia el futuro.",
       openPositions: "Puestos abiertos",
       openPositionsDesc:
-        "Descubra nuestras ofertas de empleo actuales y únase a un equipo apasionado al servicio de la excelencia industrial en Marruecos.",
+        "Descubra nuestras ofertas de empleo actuales y únase a un equipo apasionado al servicio de la excelencia industrial en Marruecos",
       openPositionsCTA: "Ver puestos",
       companyCulture: "Cultura empresarial",
       companyCultureDesc:
