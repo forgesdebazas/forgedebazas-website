@@ -36,7 +36,7 @@ export const generateQuotePDF = (formData: QuoteFormData, quoteId: string) => {
     doc.setFontSize(10);
     doc.setTextColor(100);
     doc.text("Forges de Bazas", 200, 20, { align: "right" });
-    doc.text("contact@forgesdebazas.ma", 200, 25, { align: "right" });
+    doc.text("contact@forgesdebazas.com", 200, 25, { align: "right" });
     doc.text("+212 522 669 850", 200, 30, { align: "right" });
     doc.text("Casablanca, Maroc", 200, 35, { align: "right" });
 

@@ -64,7 +64,7 @@ export default function AboutClient() {
                 <p className="font-semibold text-gray-800">
                   {t.aboutPage.intro}
                 </p>
-                <p>{t.aboutPage.description}</p>
+                <p className="whitespace-pre-line">{t.aboutPage.description}</p>
               </div>
             </div>
             <div className="order-1 lg:order-2 relative h-72 sm:h-96 lg:h-[450px] rounded-2xl overflow-hidden shadow-2xl transform hover:scale-[1.01] transition-transform duration-500">
@@ -339,8 +339,8 @@ export default function AboutClient() {
               {
                 city: "Casablanca",
                 tag: "Siège",
-                address: "Route Zenata, lotissement polygone, quartier Ain Sebaa lots 13,14 & 15, 20250",
-                phone: "0522 669 850",
+                address: "Route 111, km 11.5 - Quartier Industriel Sidi Bernoussi Casablanca 20590 – Maroc",
+                phone: "+212 522 669 850",
                 phoneTel: "+212522669850",
                 map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3321.8245401419663!2d-7.508045024301253!3d33.63579117331658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cbbf8244a441%3A0x9fbe1a1ca06dc7d0!2sForges%20de%20Bazas!5e0!3m2!1sfr!2sma!4v1765657582549!5m2!1sfr!2sma",
               },
@@ -348,7 +348,7 @@ export default function AboutClient() {
                 city: "Agadir",
                 tag: null,
                 address: "LOT 55, TASSILA RP 40, DCHEIRA 80000",
-                phone: "06 08 11 63 63",
+                phone: "+212 608 116 363",
                 phoneTel: "+212608116363",
                 map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3441.638273553259!2d-9.5255628!3d30.3896279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdb3c93da94dfb97%3A0x8f085efc57a43dd8!2sForges%20de%20bazas!5e0!3m2!1sfr!2sma!4v1765673315728!5m2!1sfr!2sma",
               },

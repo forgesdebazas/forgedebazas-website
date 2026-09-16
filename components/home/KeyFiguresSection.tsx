@@ -20,14 +20,15 @@ function getYearsSinceFounding(): number {
 export function KeyFiguresSection() {
   const { t } = useLanguage();
   const [isVisible, setIsVisible] = useState(false);
-  const [counts, setCounts] = useState([0, 0, 0, 0]);
+  const [counts, setCounts] = useState([0, 0, 0, 0, 0]);
   const sectionRef = useRef<HTMLDivElement>(null);
 
   const figures = [
+    { value: 0, textDisplay: "N°1", label: t.keyFigures.leader, suffix: "", small: false, isText: true },
     { value: 559, label: t.keyFigures.turnover, suffix: "", small: false },
     { value: getYearsSinceFounding(), label: t.keyFigures.experience, suffix: "", small: false },
     { value: 205, label: t.keyFigures.employees, suffix: "", small: false },
-    { value: 3500, label: t.keyFigures.storage, suffix: "m²", small: true },
+    { value: 35000, label: t.keyFigures.storage, suffix: "m", small: true },
   ];
 
   useEffect(() => {
@@ -59,6 +60,7 @@ export function KeyFiguresSection() {
     const stepDuration = duration / steps;
 
     figures.forEach((figure, index) => {
+      if (figure.isText) return;
       let currentStep = 0;
       const increment = figure.value / steps;
 
@@ -105,16 +107,16 @@ export function KeyFiguresSection() {
         <div className="w-24 h-1 bg-gradient-to-r from-transparent via-red-600 to-transparent mx-auto mt-4 sm:mt-6"></div>
       </div>
 
-      {/* Key Figures and Map - Side by Side */}
+      {/* Key Figures */}
       <ScrollAnimation className="relative z-10 w-full max-w-[1600px] mx-auto px-4 sm:px-6 md:px-8 lg:px-10 xl:px-16">
         <div className="">
           {/* Key Figures - Left Side */}
           <div className="w-full">
-            <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 lg:gap-8">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 sm:gap-6 lg:gap-6">
               {figures.map((item, index) => (
                 <div
                   key={item.label}
-                  className="group relative bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 sm:p-8 lg:p-10 hover:bg-white/10 hover:border-white/20 transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-blue-500/20 flex flex-col items-center justify-center"
+                  className="group relative bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-4 sm:p-6 lg:p-8 hover:bg-white/10 hover:border-white/20 transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-blue-500/20 flex flex-col items-center justify-center"
                 >
                   {/* Decorative corner accent */}
                   <div className="absolute top-0 right-0 w-12 h-12 bg-gradient-to-br from-blue-500/20 to-transparent rounded-bl-3xl rounded-tr-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -124,22 +126,22 @@ export function KeyFiguresSection() {
                       className="font-black mb-2 sm:mb-3 bg-gradient-to-br from-white via-blue-100 to-blue-200 bg-clip-text text-transparent leading-none"
                       style={{
                         fontSize: item.small
-                          ? "clamp(1.8rem, 4vw, 3.5rem)"
-                          : "clamp(2.8rem, 6vw, 5.5rem)",
+                          ? "clamp(1.8rem, 3.5vw, 3rem)"
+                          : "clamp(2.5rem, 5vw, 4.5rem)",
                       }}
                     >
-                      {counts[index]}
+                      {item.isText ? item.textDisplay : counts[index]}
                       <span
                         style={{
                           fontSize: item.small
-                            ? "clamp(1rem, 2vw, 1.6rem)"
-                            : "clamp(1.4rem, 3vw, 2.5rem)",
+                            ? "clamp(1rem, 1.8vw, 1.4rem)"
+                            : "clamp(1.2rem, 2.5vw, 2.2rem)",
                         }}
                       >
                         {item.suffix}
                       </span>
                     </div>
-                    <div className="text-xs sm:text-sm lg:text-base text-gray-300 uppercase tracking-widest font-semibold leading-relaxed">
+                    <div className="text-xs sm:text-sm text-gray-300 uppercase tracking-widest font-semibold leading-relaxed">
                       {item.label}
                     </div>
                   </div>

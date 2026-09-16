@@ -181,13 +181,13 @@ export function SolutionsSection() {
       <div className="w-full max-w-[1600px] mx-auto px-4 sm:px-8 lg:px-14 xl:px-20 relative z-10">
         <div className="text-center mb-12 md:mb-16">
           <div className="inline-flex flex-col items-center">
-            <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-4 uppercase text-black hover:text-[#dc2626]">
-              <span className="leading-tight font-normal">
-                {t.solutions.title.split(" ")[0]}
+            <h2 className="text-4xl md:text-5xl lg:text-6xl font-extrabold mb-4 uppercase text-black hover:text-[#dc2626] tracking-tight">
+              <span className="leading-tight font-light text-gray-700">
+                {t.solutions.homeTitleLine1}
               </span>{" "}
               <br />
-              <span>
-                {t.solutions.title.split(" ").slice(1).join(" ").toUpperCase()}
+              <span className="text-[#dc2626] font-black">
+                {t.solutions.homeTitleLine2}
               </span>
             </h2>
             <div className="flex items-center gap-2 mb-6">

@@ -46,7 +46,7 @@ const SYSTEM_PROMPT = `You are the expert AI consultant for Forges de Bazas — 
 
 **COMPANY:**
 - Name: Forges de Bazas | Founded: 1950 | 75+ years of expertise
-- Locations: Casablanca HQ (+212 522 669 850), Agadir, Tanger
+- Locations: Casablanca HQ (+212 522 669 850, Route 111, km 11.5 - Quartier Industriel Sidi Bernoussi), Agadir (+212 608 116 363), Tanger (+212 608 116 262)
 - Email: contact@forgesdebazas.com
 - Services: Vente (neuf/reconditionné), Location PROXAM, SAV complet
 

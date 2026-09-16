@@ -464,7 +464,7 @@ export default function BrandClient({ brand }: BrandClientProps) {
     }
 
     // Brands without filters — show a single "all" entry so the filter bar is hidden
-    if (["SINOBOOM", "AJAX"].includes(normalizedBrandName)) {
+    if (["SINOBOOM", "AJAX", "COMBILIFT"].includes(normalizedBrandName)) {
       return base;
     }
 

@@ -54,6 +54,8 @@ export const translations = {
     // Solutions Section
     solutions: {
       title: "Nos solutions",
+      homeTitleLine1: "NOUS FOURNISSONS",
+      homeTitleLine2: "DES SOLUTIONS",
       description:
         "Nos solutions chez Forges de Bazas offrent des équipements fiables et performants ainsi qu'un accompagnement sur mesure pour répondre aux besoins les plus exigeants de l'industrie et de la construction.",
       seeMore: "VOIR PLUS",
@@ -229,12 +231,12 @@ export const translations = {
       title: "À propos DE FORGES",
       subtitle: "Présentation de l'entreprise",
       intro:
-        "Depuis sa fondation en 1950, Forges de Bazas a tracé un parcours d'excellence dans le domaine des équipements industriels et btp.",
+        "Depuis sa création en 1950, Forges de Bazas s’appuie sur plus de 75 ans d’expérience et de savoir-faire dans le domaine des équipements industriels, de la manutention et du BTP.",
       description:
-        "La société jouit depuis plus d'un demi-siècle d'une réputation incontestée de sérieux et de professionnalisme, la qualité de ses services fait aujourd'hui référence auprès de tous les professionnels du secteur. En tant que distributeur exclusif des marques premium TOYOTA MATERIAL HANDLING et SANY au Maroc, nous avons renforcé notre réputation de partenaire de confiance auprès de l'ensemble de nos clients. Nous représentons également plusieurs autres marques reconnues, élargissant ainsi notre offre pour mieux répondre aux besoins du marché. Nous vous offrons une gamme complète de solutions, comprenant la vente, la location et la maintenance d'équipements, soutenue par un service après-vente de qualité.",
+        "Au fil des années, l’entreprise a construit une réputation fondée sur le sérieux, le professionnalisme et la qualité de ses services, faisant de Forges de Bazas un partenaire de confiance et une référence auprès des professionnels du secteur.\n\nDistributeur exclusif au Maroc de TOYOTA MATERIAL HANDLING et SANY, deux marques premium de renommée internationale, Forges de Bazas propose des solutions performantes et adaptées aux exigences de ses clients. L’entreprise représente également plusieurs autres marques reconnues, permettant de proposer une offre diversifiée et complète.\n\nNotre expertise s’étend à l’ensemble du cycle de vie des équipements, avec une offre intégrée couvrant la vente, la location, la maintenance, les pièces de rechange et le service après-vente.\n\nÀ travers cette approche globale, Forges de Bazas s’engage à offrir à ses clients des équipements fiables, des solutions adaptées et un accompagnement durable, au service de leur performance et de leur développement.",
       ourStory: "Notre Histoire",
       since1950:
-        "Depuis sa fondation en 1950, Forges de Bazas a tracé un parcours d'excellence dans le domaine des équipements industriels et BTP.",
+        "Depuis sa création en 1950, Forges de Bazas s’appuie sur plus de 75 ans d’expérience et de savoir-faire dans le domaine des équipements industriels, de la manutention et du BTP.",
       ourValues: "Nos Valeurs",
       trust: "Intégrité",
       trustDesc:
@@ -327,6 +329,7 @@ export const translations = {
       experience: "ans d'expérience",
       employees: "employés",
       storage: "Parc de stockage",
+      leader: "de la manutention au Maroc",
     },
 
     // Rental Section
@@ -475,7 +478,7 @@ export const translations = {
       lastName: "Nom *",
       email: "Email *",
       phone: "Téléphone *",
-      company: "Société / Entreprise",
+      company: "Nom de la société",
       firstNamePlaceholder: "Votre prénom",
       lastNamePlaceholder: "Votre nom",
       emailPlaceholder: "exemple@email.com",
@@ -635,7 +638,7 @@ export const translations = {
       step3: "Vos Coordonnées",
       name: "Nom complet",
       namePlaceholder: "Votre nom",
-      company: "Nom de l'entreprise",
+      company: "Nom de la société",
       companyPlaceholder: "Votre société",
       phone: "Téléphone professionnel",
       phonePlaceholder: "+212...",
@@ -1006,6 +1009,8 @@ export const translations = {
     },
     solutions: {
       title: "Our Solutions",
+      homeTitleLine1: "WE PROVIDE",
+      homeTitleLine2: "SOLUTIONS",
       description:
         "Our solutions at Forges de Bazas offer reliable and high-performance equipment as well as tailored support to meet the most demanding needs of industry and construction.",
       seeMore: "SEE MORE",
@@ -1267,6 +1272,7 @@ export const translations = {
       experience: "years of experience",
       employees: "employees",
       storage: "Storage Park",
+      leader: "in material handling in Morocco",
     },
     rental: {
       title: "PROXAM",
@@ -1789,6 +1795,8 @@ export const translations = {
 
     solutions: {
       title: "Nuestras soluciones",
+      homeTitleLine1: "OFRECEMOS",
+      homeTitleLine2: "SOLUCIONES",
       description:
         "Nuestras soluciones en Forges de Bazas ofrecen equipos fiables y de alto rendimiento, así como un acompañamiento a medida para responder a las necesidades más exigentes de la industria y la construcción.",
       seeMore: "VER MÁS",
@@ -2056,6 +2064,7 @@ export const translations = {
       experience: "años de experiencia",
       employees: "empleados",
       storage: "Parque de almacenamiento",
+      leader: "de la manutención en Marruecos",
     },
 
     rental: {

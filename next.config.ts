@@ -82,18 +82,18 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "www.teksan.com.tr",
       },
-      {
-        protocol: "https",
-        hostname: "diect.com",
-      },
+      // {
+      //   protocol: "https",
+      //   hostname: "diect.com",
+      // },
       {
         protocol: "https",
         hostname: "**.sinoboom.com",
       },
-      // {
-      //   protocol: "https",
-      //   hostname: "www.combilift.com",
-      // },
+      {
+        protocol: "https",
+        hostname: "**.combilift.com",
+      },
       {
         protocol: "https",
         hostname: "toyotaforklift.scene7.com",
@@ -106,14 +106,14 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "cdn.pixabay.com",
       },
-      {
-        protocol: "https",
-        hostname: "img.icons8.com",
-      },
-      {
-        protocol:"https",
-        hostname:"images.pexels.com"
-      },
+      // {
+      //   protocol: "https",
+      //   hostname: "img.icons8.com",
+      // },
+      // {
+      //   protocol:"https",
+      //   hostname:"images.pexels.com"
+      // },
       {
         protocol: "https",
         hostname: "media.istockphoto.com",
@@ -254,6 +254,18 @@ const nextConfig: NextConfig = {
       //   protocol: "https",
       //   "hostname": "cfaoequipment-guineebissau.com"
       // }
+      {
+        protocol: "https",
+        hostname: "cdn-ilecokb.nitrocdn.com",
+      },
+      {
+        protocol: "https",
+        hostname: "aisle-master.com",
+      },
+      {
+        protocol: "https",
+        hostname: "encrypted-tbn0.gstatic.com",
+      },
     ],
   },
 };

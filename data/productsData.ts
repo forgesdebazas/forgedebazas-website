@@ -5394,6 +5394,253 @@ const existingProducts: Product[] = [
     featured: false,
     available: true,
   },
+  // ── COMBILIFT PRODUCTS ──
+  {
+    id: "combilift-aisle-master",
+    category: "manutention",
+    brand: "COMBILIFT",
+    title: {
+      fr: "COMBILIFT AISLE MASTER",
+      en: "COMBILIFT AISLE MASTER",
+      es: "COMBILIFT AISLE MASTER",
+    },
+    shortTitle: {
+      fr: "AISLE MASTER",
+      en: "AISLE MASTER",
+      es: "AISLE MASTER",
+    },
+    description: {
+      fr: "Chariot multidirectionnel pour allées étroites, capacité 1.5T à 3T, hauteur de levée de 4 300 mm jusqu'à 15 000 mm. Idéal pour optimiser l'espace de stockage.",
+      en: "Multidirectional forklift for narrow aisles, capacity 1.5T to 3T, lift height from 4,300 mm up to 15,000 mm. Ideal for optimising storage space.",
+      es: "Carretilla multidireccional para pasillos estrechos, capacidad 1.5T a 3T, altura de elevación de 4 300 mm hasta 15 000 mm. Ideal para optimizar el espacio de almacenamiento.",
+    },
+    specs: {
+      portee: {
+        fr: "Capacité: 1.5T – 3T",
+        en: "Capacity: 1.5T – 3T",
+        es: "Capacidad: 1.5T – 3T",
+      },
+      pression: {
+        fr: "Hauteur: 4 300 mm – 15 000 mm",
+        en: "Height: 4,300 mm – 15,000 mm",
+        es: "Altura: 4 300 mm – 15 000 mm",
+      },
+      sortie: {
+        fr: "Type: AM",
+        en: "Type: AM",
+        es: "Tipo: AM",
+      },
+    },
+    models: ["AM"],
+    image: "https://aisle-master.com/wp-content/uploads/2021/01/Layer-1.png",
+    featured: false,
+    available: true,
+  },
+  {
+    id: "combilift-combi-cs",
+    category: "manutention",
+    brand: "COMBILIFT",
+    title: {
+      fr: "COMBILIFT GERBEUR À CONTRE POIDS",
+      en: "COMBILIFT COUNTERBALANCE STACKER",
+      es: "COMBILIFT APILADOR CONTRAPESADO",
+    },
+    shortTitle: {
+      fr: "GERBEUR À CONTRE POIDS COMBI-CS",
+      en: "COUNTERBALANCE STACKER COMBI-CS",
+      es: "APILADOR CONTRAPESADO COMBI-CS",
+    },
+    description: {
+      fr: "Gerbeur à contre poids Combi-CS, compact et maniable, capacité 1T à 2T, hauteur standard 2 500 mm. Solution idéale pour entrepôts étroits.",
+      en: "Combi-CS counterbalance stacker, compact and manoeuvrable, capacity 1T to 2T, standard height 2,500 mm. Ideal solution for narrow warehouses.",
+      es: "Apilador contrapesado Combi-CS, compacto y maniobrable, capacidad 1T a 2T, altura estándar 2 500 mm. Solución ideal para almacenes estrechos.",
+    },
+    specs: {
+      portee: {
+        fr: "Capacité: 1T – 2T",
+        en: "Capacity: 1T – 2T",
+        es: "Capacidad: 1T – 2T",
+      },
+      pression: {
+        fr: "Hauteur: Standard 2 500 mm",
+        en: "Height: Standard 2,500 mm",
+        es: "Altura: Estándar 2 500 mm",
+      },
+      sortie: {
+        fr: "Type: Combi-CS",
+        en: "Type: Combi-CS",
+        es: "Tipo: Combi-CS",
+      },
+    },
+    models: ["Combi-CS"],
+    image: "https://aisle-master.com/wp-content/uploads/2021/06/combi-cs-gallery-image.png",
+    featured: false,
+    available: true,
+  },
+  {
+    id: "combilift-combi-cb",
+    category: "manutention",
+    brand: "COMBILIFT",
+    title: {
+      fr: "COMBILIFT CHARIOT À CONTRE POIDS MULTIDIRECTIONNEL",
+      en: "COMBILIFT MULTIDIRECTIONAL COUNTERBALANCE FORKLIFT",
+      es: "COMBILIFT CARRETILLA CONTRAPESADA MULTIDIRECCIONAL",
+    },
+    shortTitle: {
+      fr: "CHARIOT MULTIDIRECTIONNEL COMBI-CB",
+      en: "MULTIDIRECTIONAL FORKLIFT COMBI-CB",
+      es: "CARRETILLA MULTIDIRECCIONAL COMBI-CB",
+    },
+    description: {
+      fr: "Chariot à contre poids multidirectionnel Combi-CB, capacité 2.5T à 3T, hauteur de levée 4 000 mm à 6 000 mm. Navigation 4 roues motrices.",
+      en: "Combi-CB multidirectional counterbalance forklift, capacity 2.5T to 3T, lift height 4,000 mm to 6,000 mm. 4-wheel drive navigation.",
+      es: "Carretilla contrapesada multidireccional Combi-CB, capacidad 2.5T a 3T, altura de elevación 4 000 mm a 6 000 mm. Navegación tracción 4 ruedas.",
+    },
+    specs: {
+      portee: {
+        fr: "Capacité: 2.5T – 3T",
+        en: "Capacity: 2.5T – 3T",
+        es: "Capacidad: 2.5T – 3T",
+      },
+      pression: {
+        fr: "Hauteur: 4 000 mm – 6 000 mm",
+        en: "Height: 4,000 mm – 6,000 mm",
+        es: "Altura: 4 000 mm – 6 000 mm",
+      },
+      sortie: {
+        fr: "Type: Combi-CB",
+        en: "Type: Combi-CB",
+        es: "Tipo: Combi-CB",
+      },
+    },
+    models: ["Combi-CB"],
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8au0NIHDX5YeDtxeXZoBX4N71yto0ulKNR4o8FeKMjbznalCWGmujQgI&s=10",
+    featured: false,
+    available: true,
+  },
+  {
+    id: "combilift-c-series",
+    category: "manutention",
+    brand: "COMBILIFT",
+    title: {
+      fr: "COMBILIFT CHARIOT MULTIDIRECTIONNEL C-SERIES",
+      en: "COMBILIFT C-SERIES MULTIDIRECTIONAL FORKLIFT",
+      es: "COMBILIFT CARRETILLA MULTIDIRECCIONAL C-SERIES",
+    },
+    shortTitle: {
+      fr: "CHARIOT MULTIDIRECTIONNEL C-SERIES",
+      en: "C-SERIES MULTIDIRECTIONAL FORKLIFT",
+      es: "CARRETILLA MULTIDIRECCIONAL C-SERIES",
+    },
+    description: {
+      fr: "Chariot multidirectionnel C-Series, gamme polyvalente pour charges longues et encombrantes, capacité 2.5T à 25T, hauteur standard 4 040 mm.",
+      en: "C-Series multidirectional forklift, versatile range for long and bulky loads, capacity 2.5T to 25T, standard height 4,040 mm.",
+      es: "Carretilla multidireccional C-Series, gama versátil para cargas largas y voluminosas, capacidad 2.5T a 25T, altura estándar 4 040 mm.",
+    },
+    specs: {
+      portee: {
+        fr: "Capacité: 2.5T – 25T",
+        en: "Capacity: 2.5T – 25T",
+        es: "Capacidad: 2.5T – 25T",
+      },
+      pression: {
+        fr: "Hauteur: Standard 4 040 mm",
+        en: "Height: Standard 4,040 mm",
+        es: "Altura: Estándar 4 040 mm",
+      },
+      sortie: {
+        fr: "Type: C-Series",
+        en: "Type: C-Series",
+        es: "Tipo: C-Series",
+      },
+    },
+    models: ["C-Series"],
+    image: "https://combilift.com/wp-content/uploads/2024/07/C2500.jpg",
+    featured: false,
+    available: true,
+  },
+  {
+    id: "combilift-combi-css",
+    category: "manutention",
+    brand: "COMBILIFT",
+    title: {
+      fr: "COMBILIFT CHARGEMENT ET DÉCHARGEMENT DE CONTENEUR",
+      en: "COMBILIFT CONTAINER LOADING & UNLOADING",
+      es: "COMBILIFT CARGA Y DESCARGA DE CONTENEDORES",
+    },
+    shortTitle: {
+      fr: "CHARGEMENT CONTENEUR COMBI-CSS",
+      en: "CONTAINER LOADING COMBI-CSS",
+      es: "CARGA CONTENEDOR COMBI-CSS",
+    },
+    description: {
+      fr: "Combi-CSS spécialisé pour le chargement et déchargement de conteneurs, capacité maximale 30T. Productivité maximale en zone portuaire.",
+      en: "Combi-CSS specialised for container loading and unloading, maximum capacity 30T. Maximum productivity in port areas.",
+      es: "Combi-CSS especializado en carga y descarga de contenedores, capacidad máxima 30T. Máxima productividad en zonas portuarias.",
+    },
+    specs: {
+      portee: {
+        fr: "Capacité: 30T",
+        en: "Capacity: 30T",
+        es: "Capacidad: 30T",
+      },
+      pression: {
+        fr: "Application: Conteneurs",
+        en: "Application: Containers",
+        es: "Aplicación: Contenedores",
+      },
+      sortie: {
+        fr: "Type: Combi-CSS",
+        en: "Type: Combi-CSS",
+        es: "Tipo: Combi-CSS",
+      },
+    },
+    models: ["Combi-CSS"],
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPqAapiQz2a3aVaIKrzam4rkQUqQRv2QidWvjorG_T_uMaLmc_wUlhZ3_&s=10",
+    featured: false,
+    available: true,
+  },
+  {
+    id: "combilift-combi-sc",
+    category: "manutention",
+    brand: "COMBILIFT",
+    title: {
+      fr: "COMBILIFT PORTE CONTENEUR ET CHARGE LOURDE (STRADDLE CARRIER)",
+      en: "COMBILIFT CONTAINER & HEAVY LOAD CARRIER (STRADDLE CARRIER)",
+      es: "COMBILIFT PORTACONTENEDORES Y CARGA PESADA (STRADDLE CARRIER)",
+    },
+    shortTitle: {
+      fr: "STRADDLE CARRIER COMBI-SC",
+      en: "STRADDLE CARRIER COMBI-SC",
+      es: "STRADDLE CARRIER COMBI-SC",
+    },
+    description: {
+      fr: "Combi-SC Straddle Carrier pour conteneurs et charges lourdes, capacité 20T à 100T, hauteur de levée 5 000 mm à 7 000 mm. Solution haute capacité pour terminaux.",
+      en: "Combi-SC Straddle Carrier for containers and heavy loads, capacity 20T to 100T, lift height 5,000 mm to 7,000 mm. High-capacity solution for terminals.",
+      es: "Combi-SC Straddle Carrier para contenedores y cargas pesadas, capacidad 20T a 100T, altura de elevación 5 000 mm a 7 000 mm. Solución de alta capacidad para terminales.",
+    },
+    specs: {
+      portee: {
+        fr: "Capacité: 20T – 100T",
+        en: "Capacity: 20T – 100T",
+        es: "Capacidad: 20T – 100T",
+      },
+      pression: {
+        fr: "Hauteur: 5 000 mm – 7 000 mm",
+        en: "Height: 5,000 mm – 7,000 mm",
+        es: "Altura: 5 000 mm – 7 000 mm",
+      },
+      sortie: {
+        fr: "Type: Combi-SC",
+        en: "Type: Combi-SC",
+        es: "Tipo: Combi-SC",
+      },
+    },
+    models: ["Combi-SC"],
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd2iufPaKRaRIxuI93FFE2XVMfflVbBxdXqZvZaoPuLM-hXF2Vs7Cv93w&s=10",
+    featured: false,
+    available: true,
+  },
 ];
 
 // Merge existing products with scraped products
@@ -6083,7 +6330,17 @@ export const brands: Brand[] = [
     id: "atox",
     name: "ATOX",
     logo: "https://atoxgrupo.com/wp-content/uploads/2024/08/112fe7426f6ffed9ad2cd4946a4235e4.png",
-  }
+  },
+  {
+    id: "combilift",
+    name: "COMBILIFT",
+    logo: "https://cdn-ilecokb.nitrocdn.com/hnMkqPskCLTYmYthFPcpNZClCZrSTwWV/assets/images/optimized/rev-4ef4261/combilift.com/wp-content/uploads/2024/08/cropped-cropped-cropped-Combilift-logo-lg-1.jpg",
+    description: {
+      fr: "Solutions innovantes de chariots multidirectionnels et de manutention pour espaces réduits",
+      en: "Innovative multidirectional forklift and material handling solutions for confined spaces",
+      es: "Soluciones innovadoras de carretillas multidireccionales y manejo de materiales para espacios reducidos",
+    },
+  },
 ];
 
 export default { products, categories, brands };

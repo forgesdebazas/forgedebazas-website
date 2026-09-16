@@ -353,8 +353,7 @@ export default function Footer() {
                 </p>
                 <div className="leading-relaxed space-y-0.5">
                   <div>
-                    Route Zenata, lotissement polygone, quartier Ain Sebaa,
-                    lots 13,14 &amp;15, 20250 - Casablanca
+                    Route 111, km 11.5 - Quartier Industriel Sidi Bernoussi Casablanca 20590 – Maroc
                   </div>
                   <div>
                     Tél :{" "}
@@ -362,7 +361,7 @@ export default function Footer() {
                       href="tel:+212522669850"
                       className="hover:text-[#dc2626]"
                     >
-                      0522 669 850
+                      +212 522 669 850
                     </a>
                   </div>
                   <div>
@@ -385,10 +384,10 @@ export default function Footer() {
                   <div>
                     Tél :{" "}
                     <a
-                      href="tel:+212528833734"
+                      href="tel:+212608116363"
                       className="hover:text-[#dc2626]"
                     >
-                      0528833734
+                      +212 608 116 363
                     </a>
                   </div>
                   <div>
