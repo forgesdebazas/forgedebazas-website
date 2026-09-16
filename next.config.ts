@@ -126,10 +126,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "d1yjjnpx0p53s8.cloudfront.net",
       },
-      {
-        protocol: "https",
-        hostname: "static.wixstatic.com",
-      },
+      // {
+      //   protocol: "https",
+      //   hostname: "static.wixstatic.com",
+      // },
       {
         protocol: "https",
         hostname: "e-mak.com",

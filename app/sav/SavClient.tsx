@@ -57,7 +57,7 @@ export default function SavClient() {
             <div className="w-full lg:w-1/2">
               <div className="relative h-[400px] sm:h-[500px] rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="https://sanyperkasa.com/wp-content/uploads/2022/03/DSC00477pe.jpg"
+                  src="https://sanyperkasa.com/wp-content/uploads/2026/07/DSC00477pe-2.png"
                   alt="Maintenance et Réparation"
                   fill
                   className="object-cover"
