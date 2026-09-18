@@ -157,6 +157,8 @@ export default function DevisClient() {
     serviceOptions.find((option) => option.value === serviceType)?.label ||
     serviceType;
 
+  const DEVIS_CACHE_KEY = "forges_devis_form_cache";
+
   const [formData, setFormData] = useState({
     serviceType: "",
     category: "",
@@ -172,12 +174,41 @@ export default function DevisClient() {
     consent: false,
   });
 
+  // Restaurer les données en cache si l'utilisateur a navigué (ex: vers politique de confidentialité)
+  useEffect(() => {
+    try {
+      const cached = sessionStorage.getItem(DEVIS_CACHE_KEY);
+      if (cached) {
+        const parsed = JSON.parse(cached);
+        if (parsed && typeof parsed === "object") {
+          setFormData((prev) => ({ ...prev, ...parsed }));
+        }
+      }
+    } catch (e) {
+      console.warn("Could not load cached devis form:", e);
+    }
+  }, []);
+
   useEffect(() => {
     const service = new URLSearchParams(window.location.search).get("service");
     if (service === "location") {
       setFormData((prev) => ({ ...prev, serviceType: "location" }));
     }
   }, []);
+
+  const [isSubmitted, setIsSubmitted] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+  const [quoteId, setQuoteId] = useState("");
+
+  // Sauvegarder automatiquement les modifications dans le cache sessionStorage
+  useEffect(() => {
+    if (isSubmitted) return;
+    try {
+      sessionStorage.setItem(DEVIS_CACHE_KEY, JSON.stringify(formData));
+    } catch (e) {
+      console.warn("Could not cache devis form:", e);
+    }
+  }, [formData, isSubmitted]);
 
   // Extract models based on selected category for autocomplete
   const availableModels = useMemo(() => {
@@ -198,10 +229,6 @@ export default function DevisClient() {
     });
     return Array.from(models).sort();
   }, [formData?.category]);
-
-  const [isSubmitted, setIsSubmitted] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
-  const [quoteId, setQuoteId] = useState("");
 
   const devisInfos = `
 
@@ -265,42 +292,41 @@ ${formData.phone}`;
     const submissionDate = new Date().toISOString();
 
     try {
-      // const token = await executeRecaptcha("devis_submission"); // Removed
-
-      // Save to Firestore
+      // 1. Enregistrement Backoffice (Firestore) - CONSERVÉ INTÉGRALEMENT
       await addDoc(collection(db, "devis"), {
         quoteId,
         date: submissionDate,
-        // recaptchaToken: token, // Removed
         ...formData,
       });
 
-      // Send data to Google Sheet (Legacy)
-      // await fetch(
-      //   `https://script.google.com/macros/s/${process.env.NEXT_PUBLIC_GOOGLE_SHEET_ID}/exec`,
-      //   {
-      //     method: "POST",
-      //     mode: "no-cors",
-      //     headers: {
-      //       "Content-Type": "application/json",
-      //     },
-      //     body: JSON.stringify({
-      //       quoteId,
-      //       date: submissionDate,
-      //       serviceType: formData.serviceType,
-      //       category: formData.category,
-      //       model: formData.model,
-      //       country: formData.country,
-      //       city: formData.city,
-      //       name: formData.name,
-      //       phone: formData.phone,
-      //       email: formData.email,
-      //       company: formData.company,
-      //       timeframe: formData.timeframe,
-      //       message: formData.message,
-      //     }),
-      //   }
-      // );
+      // 2. Notification Email (contact@forgesdebazas.com) - COMPLÉMENTAIRE ET NON BLOQUANTE
+      try {
+        fetch("/api/devis/notification", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            quoteId,
+            date: submissionDate,
+            ...formData,
+            serviceTypeLabel: formData.serviceType
+              ? formatServiceType(formData.serviceType)
+              : "",
+            categoryLabel:
+              formatCategory(formData.category) || formData.category,
+          }),
+        }).catch((emailErr) => {
+          console.error("Notification email non bloquante échouée:", emailErr);
+        });
+      } catch (emailErr) {
+        console.error("Erreur lors de l'appel notification email:", emailErr);
+      }
+
+      // Nettoyage du cache après soumission réussie
+      try {
+        sessionStorage.removeItem(DEVIS_CACHE_KEY);
+      } catch {}
 
       setQuoteId(quoteId);
       setIsSubmitted(true);
@@ -625,7 +651,7 @@ ${devisInfos}
                         </div>
                         <div>
                           <label className="block text-sm font-medium text-gray-700 mb-2">
-                            {t.devis.company}
+                            {t.devis.company} <span className="text-red-500">*</span>
                           </label>
                           <div className="relative">
                             <Building2 className="absolute left-4 top-3.5 text-gray-400 w-5 h-5" />
@@ -636,6 +662,7 @@ ${devisInfos}
                               onChange={handleChange}
                               placeholder={t.devis.companyPlaceholder}
                               className="w-full pl-11 pr-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-red-500 focus:border-transparent transition-all"
+                              required
                             />
                           </div>
                         </div>
@@ -731,6 +758,8 @@ ${devisInfos}
                         <p>{t.devis.consentDesc}</p>
                         <Link
                           href="/politique-confidentialite"
+                          target="_blank"
+                          rel="noopener noreferrer"
                           className="text-red-600 hover:underline"
                         >
                           {t.devis.privacyPolicy}
@@ -808,6 +837,9 @@ ${devisInfos}
 
                   <button
                     onClick={() => {
+                      try {
+                        sessionStorage.removeItem(DEVIS_CACHE_KEY);
+                      } catch {}
                       setIsSubmitted(false);
                       setFormData({
                         serviceType: "",
@@ -837,3 +869,8 @@ ${devisInfos}
     </div>
   );
 }
+
+
+
+
+

@@ -62,16 +62,79 @@ export default function AIChatWindow({ onClose }: AIChatWindowProps) {
   const inputRef = useRef<HTMLInputElement>(null);
   const [showSuggestions, setShowSuggestions] = useState(true);
 
-  const SUGGESTED_QUESTIONS = [
-    { id: "toyota", text: "Chariots TOYOTA" },
-    { id: "sany-exc", text: "Excavatrice SANY" },
-    { id: "grue", text: "Grue SANY" },
-    { id: "genset", text: "Groupe électrogène TEKSAN" },
-    { id: "nacelle", text: "Nacelle SINOBOOM" },
-    { id: "concasseur", text: "Concasseur FABO" },
-    { id: "devis", text: "Demander un devis" },
-    { id: "location", text: "Location PROXAM" },
-  ];
+function FormattedMessage({
+  content,
+  isUser,
+}: {
+  content: string;
+  isUser: boolean;
+}) {
+  if (isUser) {
+    return <div className="whitespace-pre-line">{content}</div>;
+  }
+
+  const paragraphs = content.split(/\n\n+/);
+
+  const formatInline = (text: string) => {
+    const parts = text.split(/(\*\*[^*]+\*\*)/g);
+    return parts.map((part, idx) => {
+      if (part.startsWith("**") && part.endsWith("**")) {
+        return (
+          <strong key={idx} className="font-semibold text-gray-950">
+            {part.slice(2, -2)}
+          </strong>
+        );
+      }
+      return part;
+    });
+  };
+
+  return (
+    <div className="space-y-2">
+      {paragraphs.map((p, pIdx) => {
+        const lines = p.split(/\n/);
+        const isList =
+          lines.length > 1 && lines.every((l) => /^\s*[-*•]\s+/.test(l));
+        if (isList) {
+          return (
+            <ul key={pIdx} className="space-y-1 my-1 pl-1">
+              {lines.map((l, lIdx) => (
+                <li key={lIdx} className="flex items-start gap-1.5 text-xs sm:text-sm">
+                  <span className="text-primary font-bold mt-0.5">•</span>
+                  <span>{formatInline(l.replace(/^\s*[-*•]\s+/, ""))}</span>
+                </li>
+              ))}
+            </ul>
+          );
+        }
+        return (
+          <p key={pIdx} className="leading-relaxed">
+            {lines.map((l, lIdx) => (
+              <span key={lIdx}>
+                {formatInline(l)}
+                {lIdx < lines.length - 1 && <br />}
+              </span>
+            ))}
+          </p>
+        );
+      })}
+    </div>
+  );
+}
+
+const SUGGESTED_QUESTIONS = [
+  { id: "toyota", text: "Chariots TOYOTA" },
+  { id: "sany-exc", text: "Excavatrices SANY" },
+  { id: "grues", text: "Grues & Levage" },
+  { id: "genset", text: "Groupes TEKSAN" },
+  { id: "nacelle", text: "Nacelles SINOBOOM" },
+  { id: "mines", text: "Foreuses SUNWARD" },
+  { id: "concasseur", text: "Concasseurs FABO" },
+  { id: "location", text: "Location PROXAM" },
+  { id: "sav", text: "SAV & Maintenance" },
+  { id: "agences", text: "Agences & Contact" },
+];
+
 
   useEffect(() => {
     if (scrollRef.current) {
@@ -213,14 +276,18 @@ export default function AIChatWindow({ onClose }: AIChatWindowProps) {
             <div className="flex max-w-[85%] flex-col gap-2">
               <div
                 className={cn(
-                  "rounded-2xl px-5 py-3 text-sm relative group transition-all duration-200 shadow-sm whitespace-pre-line",
+                  "rounded-2xl px-5 py-3 text-sm relative group transition-all duration-200 shadow-sm",
                   msg.role === "user"
                     ? "bg-primary text-primary-foreground rounded-tr-none"
                     : "bg-white text-gray-800 rounded-tl-none border border-gray-100"
                 )}
               >
-                {msg.content}
+                <FormattedMessage
+                  content={msg.content}
+                  isUser={msg.role === "user"}
+                />
               </div>
+
               {msg.role === "bot" && msg.links && msg.links.length > 0 && (
                 <div className="rounded-2xl border border-gray-100 bg-white/80 px-4 py-3 shadow-sm">
                   <p className="text-[10px] font-semibold uppercase tracking-wide text-gray-400">

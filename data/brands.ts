@@ -36,7 +36,7 @@ export const brands: Brand[] = [
   {
     name: "COMBILIFT",
     image:
-      "https://cdn-ilecokb.nitrocdn.com/hnMkqPskCLTYmYthFPcpNZClCZrSTwWV/assets/images/optimized/rev-4ef4261/combilift.com/wp-content/uploads/2024/08/cropped-cropped-cropped-Combilift-logo-lg-1.jpg",
+      "/images/logos/combilift.png",
   },
   {
     name: "AJAX",

@@ -5610,9 +5610,9 @@ const existingProducts: Product[] = [
       es: "COMBILIFT PORTACONTENEDORES Y CARGA PESADA (STRADDLE CARRIER)",
     },
     shortTitle: {
-      fr: "STRADDLE CARRIER COMBI-SC",
-      en: "STRADDLE CARRIER COMBI-SC",
-      es: "STRADDLE CARRIER COMBI-SC",
+      fr: "Porte Conteneur et charge lourde ",
+      en: "Porte Conteneur et charge lourde ",
+      es: "Porte Conteneur et charge lourde ",
     },
     description: {
       fr: "Combi-SC Straddle Carrier pour conteneurs et charges lourdes, capacité 20T à 100T, hauteur de levée 5 000 mm à 7 000 mm. Solution haute capacité pour terminaux.",

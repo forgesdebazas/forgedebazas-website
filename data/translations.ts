@@ -54,8 +54,8 @@ export const translations = {
     // Solutions Section
     solutions: {
       title: "Nos solutions",
-      homeTitleLine1: "NOUS FOURNISSONS",
-      homeTitleLine2: "DES SOLUTIONS",
+      homeTitleLine1: "WE PROVIDE",
+      homeTitleLine2: "SOLUTIONS",
       description:
         "Nos solutions chez Forges de Bazas offrent des équipements fiables et performants ainsi qu'un accompagnement sur mesure pour répondre aux besoins les plus exigeants de l'industrie et de la construction.",
       seeMore: "VOIR PLUS",
@@ -512,6 +512,7 @@ export const translations = {
         phoneRequired: "Le téléphone est requis",
         typeRequired: "Veuillez choisir un type",
         descriptionShort: "Description trop courte (min 20 caractères)",
+        companyRequired: "Le nom de la société est requis",
       },
     },
 
@@ -984,6 +985,7 @@ export const translations = {
         phoneRequired: "Phone is required",
         typeRequired: "Please select a complaint type",
         descriptionShort: "Description too short (minimum 20 characters)",
+        companyRequired: "Company name is required",
       },
     },
 
@@ -1768,6 +1770,7 @@ export const translations = {
         phoneRequired: "El teléfono es obligatorio",
         typeRequired: "Por favor seleccione un tipo de reclamación",
         descriptionShort: "Descripción demasiado corta (mínimo 20 caracteres)",
+        companyRequired: "El nombre de la empresa es obligatorio",
       },
     },
 
@@ -1795,8 +1798,8 @@ export const translations = {
 
     solutions: {
       title: "Nuestras soluciones",
-      homeTitleLine1: "OFRECEMOS",
-      homeTitleLine2: "SOLUCIONES",
+      homeTitleLine1: "WE PROVIDE",
+      homeTitleLine2: "SOLUTIONS",
       description:
         "Nuestras soluciones en Forges de Bazas ofrecen equipos fiables y de alto rendimiento, así como un acompañamiento a medida para responder a las necesidades más exigentes de la industria y la construcción.",
       seeMore: "VER MÁS",

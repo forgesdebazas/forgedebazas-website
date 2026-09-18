@@ -28,7 +28,7 @@ export function KeyFiguresSection() {
     { value: 559, label: t.keyFigures.turnover, suffix: "", small: false },
     { value: getYearsSinceFounding(), label: t.keyFigures.experience, suffix: "", small: false },
     { value: 205, label: t.keyFigures.employees, suffix: "", small: false },
-    { value: 35000, label: t.keyFigures.storage, suffix: "m", small: true },
+    { value: 3500, label: t.keyFigures.storage, suffix: "m²", small: true },
   ];
 
   useEffect(() => {

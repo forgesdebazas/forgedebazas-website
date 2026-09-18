@@ -132,7 +132,7 @@ const nextConfig: NextConfig = {
       // },
       {
         protocol: "https",
-        hostname: "e-mak.com",
+        hostname: "combilift.com",
       },
       // {
       //   protocol: "https",

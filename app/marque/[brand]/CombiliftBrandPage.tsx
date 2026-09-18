@@ -37,7 +37,7 @@ const COMBILIFT_PRODUCTS: CombiliftProduct[] = [
     type: "AM",
     capacity: "1.5T – 3T",
     height: "4 300 mm – 15 000 mm",
-    image: "https://aisle-master.com/wp-content/uploads/2021/01/Layer-1.png",
+    image: "/images/combo/Chariot_Multidirectionnel.jpg",
   },
   {
     id: "combilift-combi-cs",

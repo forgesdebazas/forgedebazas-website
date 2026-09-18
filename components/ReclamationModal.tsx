@@ -57,6 +57,7 @@ export default function ReclamationModal({ isOpen, onClose }: ReclamationModalPr
     if (!formData.email.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(formData.email))
       newErrors.email = t.reclamation.errors.invalidEmail;
     if (!formData.telephone.trim()) newErrors.telephone = t.reclamation.errors.phoneRequired;
+    if (!formData.societe.trim()) newErrors.societe = t.reclamation.errors.companyRequired;
     if (!formData.typeReclamation) newErrors.typeReclamation = t.reclamation.errors.typeRequired;
     if (!formData.description.trim() || formData.description.trim().length < 20)
       newErrors.description = t.reclamation.errors.descriptionShort;
@@ -234,6 +235,7 @@ export default function ReclamationModal({ isOpen, onClose }: ReclamationModalPr
                     name="societe"
                     value={formData.societe}
                     onChange={handleChange}
+                    error={errors.societe}
                     placeholder={t.reclamation.companyPlaceholder}
                     className="sm:col-span-2"
                   />
