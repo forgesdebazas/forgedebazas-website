@@ -52,10 +52,7 @@ export async function POST(req: NextRequest) {
     );
 
     // 4. API Key setup
-    const apiKey =
-      process.env.GROQ_API_KEY ||
-      process.env.NEXT_PUBLIC_GROQ_API_KEY ||
-      "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";
+    const apiKey = process.env.GROQ_API_KEY;
 
     // Verified working Groq models in order of capability
     const candidateModels = [
