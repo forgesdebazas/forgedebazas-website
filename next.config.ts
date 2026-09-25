@@ -29,7 +29,7 @@ const nextConfig: NextConfig = {
       1200,
       1920,
     ],
-
+    unoptimized: true,
     imageSizes: [
       16,
       32,
